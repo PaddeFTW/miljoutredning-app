@@ -13,8 +13,14 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: siteConfig.name,
-  description: siteConfig.description,
+  title: "Miljöutredning | Miljörapport",
+  description: "Systematisk miljöutredning för företag enligt svenska miljölagar och standarder.",
+  viewport: {
+    width: "device-width",
+    initialScale: 1,
+    maximumScale: 5,
+    userScalable: true,
+  },
 };
 
 export default function RootLayout({
@@ -23,7 +29,7 @@ export default function RootLayout({
   children: ReactNode;
 }>) {
   return (
-    <html suppressHydrationWarning lang="en">
+    <html suppressHydrationWarning lang="sv" className="bg-background">
       <body className={inter.className}>
         <ThemeProvider>{children}</ThemeProvider>
       </body>
