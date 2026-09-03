@@ -15,12 +15,14 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Miljöutredning | Miljörapport",
   description: "Systematisk miljöutredning för företag enligt svenska miljölagar och standarder.",
-  viewport: {
-    width: "device-width",
-    initialScale: 1,
-    maximumScale: 5,
-    userScalable: true,
-  },
+};
+
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+  userScalable: true,
+  themeColor: "#f4f7f5",
 };
 
 export default function RootLayout({
