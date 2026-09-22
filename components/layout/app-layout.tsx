@@ -25,7 +25,7 @@ export function AppLayout({
       <Sidebar footer={sidebarFooter} items={navigation} />
       <div className="flex min-h-screen flex-1 flex-col">
         <Topbar actions={topbarActions} />
-        <main className={cn("flex-1 px-4 py-6 sm:px-6 lg:px-8", contentClassName)}>
+        <main className={cn("min-w-0 flex-1 bg-background px-4 py-6 sm:px-6 lg:px-10", contentClassName)}>
           {children}
         </main>
       </div>
