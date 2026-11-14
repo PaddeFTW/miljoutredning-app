@@ -27,7 +27,7 @@ export function Sidebar({
   return (
     <aside
       className={cn(
-        "hidden w-80 shrink-0 border-r bg-sidebar text-sidebar-foreground lg:flex lg:flex-col",
+        "hidden w-72 shrink-0 border-r border-sidebar-border bg-sidebar text-sidebar-foreground lg:flex lg:flex-col",
         className,
       )}
     >

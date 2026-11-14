@@ -27,7 +27,7 @@ export function Topbar({
   return (
     <div
       className={cn(
-        "sticky top-0 z-30 border-b bg-background/80 backdrop-blur-xl",
+        "sticky top-0 z-30 border-b border-border/70 bg-background/90 backdrop-blur-xl",
         className,
       )}
     >
