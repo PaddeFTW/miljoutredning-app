@@ -2,6 +2,7 @@ import type { ReactNode } from "react";
 import Link from "next/link";
 import { PanelLeft } from "lucide-react";
 
+import { appConfig } from "@/config/app";
 import { cn } from "@/lib/utils";
 import { Badge } from "@/components/ui/badge";
 import { ScrollArea } from "@/components/ui/scroll-area";
@@ -17,8 +18,8 @@ interface SidebarProps {
 }
 
 export function Sidebar({
-  title = "Quality WorX",
-  subtitle = "Foundation navigation",
+  title = appConfig.brandName,
+  subtitle = "Navigation",
   items = [],
   footer,
   className,
@@ -26,7 +27,7 @@ export function Sidebar({
   return (
     <aside
       className={cn(
-        "hidden w-80 shrink-0 border-r bg-sidebar text-sidebar-foreground lg:flex lg:flex-col",
+        "hidden w-72 shrink-0 border-r border-sidebar-border bg-sidebar text-sidebar-foreground lg:flex lg:flex-col",
         className,
       )}
     >

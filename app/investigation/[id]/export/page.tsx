@@ -1,0 +1,6 @@
+import Link from "next/link";
+import { ArrowLeft, Download, FileJson, Printer } from "lucide-react";
+import { AppShell } from "@/components/miljo/app-shell";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+export default async function ExportPage({ params }: { params: Promise<{ id: string }> }) { await params; return <AppShell title="Exportera underlag" description="Välj format för att dela eller arkivera miljöutredningen."><Link href="/investigation/1/review" className="flex items-center gap-2 text-sm text-muted-foreground"><ArrowLeft className="size-4" /> Till granskning</Link><div className="mt-8 grid gap-4 md:grid-cols-3">{[["PDF / utskrift", "Ett läsbart underlag för möten och arkiv.", Printer], ["JSON", "Strukturerad data för vidare bearbetning.", FileJson], ["Delningslänk", "Bjud in en kollega att granska.", Download]].map(([title, description, Icon]) => { const I = Icon as typeof Printer; return <Card key={title as string}><CardHeader><I className="size-5 text-primary" /><CardTitle className="mt-3 text-lg">{title as string}</CardTitle></CardHeader><CardContent><p className="mb-5 text-sm leading-6 text-muted-foreground">{description as string}</p><Button variant="outline" className="w-full">Välj format</Button></CardContent></Card>; })}</div></AppShell>; }
