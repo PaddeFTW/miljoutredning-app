@@ -1,7 +1,62 @@
 import Link from "next/link";
-import { ArrowRight, CheckCircle2, Clock3, FileText, Plus } from "lucide-react";
+import { Plus } from "lucide-react";
 import { AppShell, sections } from "@/components/miljo/app-shell";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
-export default function DashboardPage() { return <AppShell title="Översikt" description="Följ arbetet från första kartläggning till färdigt underlag."><div className="flex flex-wrap gap-3"><Button asChild><Link href="/investigation/new"><Plus data-icon="inline-start" /> Ny utredning</Link></Button><Button asChild variant="outline"><Link href="/guidance">Öppna vägledning</Link></Button></div><div className="mt-8 grid gap-4 md:grid-cols-3"><Card><CardContent className="p-6"><p className="text-sm text-muted-foreground">Pågående utredningar</p><p className="mt-2 text-3xl font-semibold">1</p><p className="mt-1 text-sm text-success">Aktiv nu</p></CardContent></Card><Card><CardContent className="p-6"><p className="text-sm text-muted-foreground">Genomförda avsnitt</p><p className="mt-2 text-3xl font-semibold">12 <span className="text-base text-muted-foreground">/ 21</span></p><p className="mt-1 text-sm text-muted-foreground">57 % färdigt</p></CardContent></Card><Card><CardContent className="p-6"><p className="text-sm text-muted-foreground">Senast sparad</p><p className="mt-2 text-3xl font-semibold">2 min</p><p className="mt-1 text-sm text-muted-foreground">sedan</p></CardContent></Card></div><Card className="mt-8"><CardHeader className="flex-row items-center justify-between"><CardTitle>Pågående utredning</CardTitle><span className="rounded-full bg-success/15 px-3 py-1 text-xs font-medium text-success">Pågår</span></CardHeader><CardContent><div className="flex flex-col gap-5"><div className="flex items-center justify-between gap-4"><div><p className="font-medium">Nordkust Produktion AB</p><p className="text-sm text-muted-foreground">Verksamhetsår 2025 · Produktion och lager</p></div><Button asChild variant="outline"><Link href="/investigation/1">Fortsätt <ArrowRight data-icon="inline-end" /></Link></Button></div><div className="h-2 overflow-hidden rounded-full bg-muted"><div className="h-full w-[57%] bg-primary" /></div><div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">{sections.slice(0, 6).map((section, index) => <div key={section} className="flex items-center gap-2 text-sm"><CheckCircle2 className={index < 4 ? "size-4 text-success" : "size-4 text-muted-foreground"} />{section}</div>)}</div></div></CardContent></Card><div className="mt-8 grid gap-4 md:grid-cols-2"><Card><CardContent className="flex gap-4 p-6"><Clock3 className="size-5 text-primary" /><div><p className="font-medium">Nästa steg</p><p className="mt-1 text-sm leading-6 text-muted-foreground">Slutför avsnitt 13–14 och gå sedan till granskning.</p></div></CardContent></Card><Card><CardContent className="flex gap-4 p-6"><FileText className="size-5 text-primary" /><div><p className="font-medium">Underlag och dokument</p><p className="mt-1 text-sm leading-6 text-muted-foreground">8 dokument kopplade till utredningen.</p></div></CardContent></Card></div></AppShell>; }
+export default function DashboardPage() {
+  return (
+    <AppShell
+      title="Översikt"
+      description="Starta en ny miljöutredning eller öppna vägledningen. Sparade utredningar visas här när datalagret är aktivt."
+    >
+      <div className="flex flex-wrap gap-3">
+        <Button asChild>
+          <Link href="/investigation/new">
+            <Plus data-icon="inline-start" /> Ny utredning
+          </Link>
+        </Button>
+        <Button asChild variant="outline">
+          <Link href="/guidance">Öppna vägledning</Link>
+        </Button>
+      </div>
+
+      <div className="mt-8 grid gap-4 md:grid-cols-3">
+        <Card>
+          <CardContent className="p-6">
+            <p className="text-sm text-muted-foreground">Sparade utredningar</p>
+            <p className="mt-2 text-3xl font-semibold">–</p>
+            <p className="mt-1 text-sm text-muted-foreground">Kräver aktiv databas eller Windows-app</p>
+          </CardContent>
+        </Card>
+        <Card>
+          <CardContent className="p-6">
+            <p className="text-sm text-muted-foreground">Avsnitt i originalet</p>
+            <p className="mt-2 text-3xl font-semibold">{sections.length}</p>
+            <p className="mt-1 text-sm text-muted-foreground">Enligt Miljöutredning.docx</p>
+          </CardContent>
+        </Card>
+        <Card>
+          <CardContent className="p-6">
+            <p className="text-sm text-muted-foreground">Bedömningsmodell</p>
+            <p className="mt-2 text-lg font-semibold">Mängd 1–3 × påverkan 1–6</p>
+            <p className="mt-1 text-sm text-muted-foreground">13–18 = betydande</p>
+          </CardContent>
+        </Card>
+      </div>
+
+      <Card className="mt-8">
+        <CardHeader>
+          <CardTitle>Originalets 21 avsnitt</CardTitle>
+        </CardHeader>
+        <CardContent className="grid gap-2 sm:grid-cols-2">
+          {sections.map((section, index) => (
+            <div key={section} className="rounded-lg border px-3 py-2 text-sm">
+              <span className="text-muted-foreground">{index + 1}.</span> {section}
+            </div>
+          ))}
+        </CardContent>
+      </Card>
+    </AppShell>
+  );
+}

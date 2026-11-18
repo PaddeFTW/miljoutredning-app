@@ -11,14 +11,14 @@
 
 export const appConfig = {
   /** The full product name shown in titles and headings. */
-  productName: "[Product name]",
+  productName: "Miljöutredning",
 
   /** Short brand name shown in compact contexts (sidebar header, auth header). */
-  brandName: "[Your brand name]",
+  brandName: "KvalitetsGruppen",
 
   /** Default metadata description used in <head> and social cards. */
   description:
-    "A reusable app template with authentication, design system, and layout primitives.",
+    "Digital miljöutredning från KvalitetsGruppen – kartlägg miljöaspekter, bedöm påverkan och exportera underlag.",
 
   /**
    * Enable social / OAuth login providers.

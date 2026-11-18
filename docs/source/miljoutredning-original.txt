@@ -1,0 +1,3403 @@
+﻿
+center23002457459410012100center818008745855Detta är en produkt från Kvalitetsdokument.se
+dokument@kvalitetsgruppen.com
+Vi som står bakom Kvalitetsdokument.se är Kvalitetsgruppen Hässleholm AB. Vi är ett konsultföretag som hjälper småföretag att införa kvalitets-, miljö- och arbetsmiljöledningssystem. Ni hittar mer information om oss på  HYPERLINK "https://kvalitetsgruppen.com/"Kvalitetsgrupppen.com
+
+941009200Detta är en produkt från Kvalitetsdokument.se
+dokument@kvalitetsgruppen.com
+Vi som står bakom Kvalitetsdokument.se är Kvalitetsgruppen Hässleholm AB. Vi är ett konsultföretag som hjälper småföretag att införa kvalitets-, miljö- och arbetsmiljöledningssystem. Ni hittar mer information om oss på  HYPERLINK "https://kvalitetsgruppen.com/"Kvalitetsgrupppen.com
+
+center700007484110Sammanfattning
+Denna miljöutredning är ett sätt att identifiera och kartlägga verksamheten miljöpåverkan och sedan lista upp betydande miljöaspekter.
+9410010000Sammanfattning
+Denna miljöutredning är ett sätt att identifiera och kartlägga verksamheten miljöpåverkan och sedan lista upp betydande miljöaspekter.
+center300003207385Miljöutredning för
+Ange företagsnamn
+9410036300Miljöutredning för
+Ange företagsnamn
+
+
+Innehållsförteckning
+ TOC \o "1-3" \h \z \u Fri support PAGEREF _Toc188434950 \h 2
+1. Allmän information PAGEREF _Toc188434951 \h 3
+2. Verksamhetsbeskrivning PAGEREF _Toc188434952 \h 4
+3. Lagar och andra bindande krav PAGEREF _Toc188434953 \h 5
+4. Miljöolyckor och miljöolycksrisker PAGEREF _Toc188434954 \h 6
+5. Förbrukningsmaterial PAGEREF _Toc188434955 \h 0
+6. Råvaror och komponenter PAGEREF _Toc188434956 \h 1
+7. Kemikalier och kemiska produkter PAGEREF _Toc188434957 \h 2
+8. Avfall, farligt avfall och återvinning PAGEREF _Toc188434958 \h 4
+9. Vatten och avlopp PAGEREF _Toc188434959 \h 5
+10. Buller PAGEREF _Toc188434960 \h 6
+11. Energianvändning PAGEREF _Toc188434961 \h 7
+12. Transport PAGEREF _Toc188434962 \h 9
+13. Tjänsteresor PAGEREF _Toc188434963 \h 11
+14. Resor till och från jobbet (frivilligt) PAGEREF _Toc188434964 \h 14
+15. Nödlägesberedskap PAGEREF _Toc188434965 \h 15
+16. Leverantörsbedömning ur miljösynpunkt PAGEREF _Toc188434966 \h 16
+17. Miljöpolicy PAGEREF _Toc188434967 \h 17
+18. Miljömål PAGEREF _Toc188434968 \h 18
+19. Bedömning av miljöaspekter PAGEREF _Toc188434969 \h 19
+20. Betydande miljöaspekt PAGEREF _Toc188434970 \h 20
+21. Positiva iakttagelser PAGEREF _Toc188434971 \h 21
+
+
+Fri support
+Ni har rätt till fri support för hur denna produkt skall användas i er verksamhet. Vänd er till dokument@kvalitetsgruppen.com eller ring oss måndag – fredag, 08.00-17.00 på 0451-837 15 om ni har frågor.  
+
+Så fyller du i blanketter med bedömning
+Mängd
+Skala
+Förklaring
+1
+Liten omfattning
+2
+Måttlig omfattning
+3
+Stor omfattning
+
+Miljöpåverkan
+Skala
+Förklaring
+1–2
+Liten miljöpåverkan
+3–4
+Måttlig miljöpåverkan
+5–6
+Stor miljöpåverkan
+
+
+Bedömning
+Multiplicera poängen för mängd med poängen för miljöpåverkan för att kunna fylla i kolumnen ”Resultat”.
+
+1–6 poäng = Mindre miljöaspekt
+7–12 poäng = Måttlig miljöaspekt
+13 – 18 = Betydande miljöaspekt
+ 
+
+
+
+1. Allmän information
+
+Miljöutredningen av ser
+(ange företagsnamn)
+Miljöutredningen avser period
+
+Miljöutredningen avser
+Hela verksamheten ☐
+
+
+
+
+
+ 
+Delar av verksamhet ☐
+
+Uppge avdelning/ar:
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+
+
+Miljöutredning genomförd av
+
+Miljöutredning granskad av
+
+Miljöutredning godkänd av
+
+Nästa miljöutredning är planerad till
+
+Kommentar
+
+
+
+
+
+
+
+
+Underskrift (genomförd)
+
+Datum
+
+Underskrift (granskad)
+
+Datum
+
+Underskrift (godkänd)
+
+Datum
+
+
+
+2. Verksamhetsbeskrivning
+
+Företagsnamn
+
+Adress
+
+Postnummer och ort
+
+Växel
+
+
+Kontaktperson
+
+Mobil
+
+E-post
+
+
+Miljöansvarig
+
+Mobil
+
+E-post
+
+
+
+
+
+
+
+
+
+Verksamhet och/eller produkter
+
+
+
+
+
+
+Företagets läge
+
+
+
+
+
+
+Tillståndspliktig verksamhet
+                                                                            Ja ☐
+Nej ☐
+Karta över anläggningen 
+(ange plats)
+Organisationsschema 
+(ange plats)
+
+Antal anställda
+
+Antal säsongsanställda
+
+Omsättning (per år)
+
+
+
+3. Lagar och andra bindande krav
+
+Lista över lagar och bindande krav
+(ange plats)
+Lista kontrollerad och uppdaterad
+2025
+Kontrollerad av
+(ange namn)
+Kontroll genomförs
+Kvartal ☐
+Halvår ☐
+Helår ☐
+
+Krav från
+Beskrivning
+Avvikelser från krav
+
+
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+Om ja, ange vilka avvikelser från lagar och andra bindande krav som sker och varför
+
+
+
+
+
+
+
+
+
+
+
+Kommentar om lagar och andra bindande krav (frivilligt)
+
+
+
+
+
+
+
+
+
+
+
+4. Miljöolyckor och miljöolycksrisker
+
+Datum
+Plats
+Orsak till olycka
+Skada på miljö
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+Ja ☐
+Nej ☐
+Om ja, ange vilken typ av skada (gärna omfång med).
+
+
+
+
+
+
+
+
+
+
+Miljöolycksrisker
+Process, lokal eller aktivitet
+Hur stor är olycksrisken
+Förebyggande av olycksrisk
+
+Liten ☐
+Mellan ☐
+Stor ☐
+Ja ☐
+Nej ☐
+
+Liten ☐
+Mellan ☐
+Stor ☐
+Ja ☐
+Nej ☐
+
+Liten ☐
+Mellan ☐
+Stor ☐
+Ja ☐
+Nej ☐
+
+Liten ☐
+Mellan ☐
+Stor ☐
+Ja ☐
+Nej ☐
+
+Liten ☐
+Mellan ☐
+Stor ☐
+Ja ☐
+Nej ☐
+
+Liten ☐
+Mellan ☐
+Stor ☐
+Ja ☐
+Nej ☐
+
+Liten ☐
+Mellan ☐
+Stor ☐
+Ja ☐
+Nej ☐
+
+Liten ☐
+Mellan ☐
+Stor ☐
+Ja ☐
+Nej ☐
+
+Liten ☐
+Mellan ☐
+Stor ☐
+Ja ☐
+Nej ☐
+
+Liten ☐
+Mellan ☐
+Stor ☐
+Ja ☐
+Nej ☐
+Kommentar om miljöolyckor och miljöolycksrisker (frivilligt)
+
+
+
+
+Dokumentation – Orsaksanalys för inträffad miljöolycka
+(ange plats)
+Dokumentation - Åtgärd vid inträffad olycka
+(ange plats)
+Riskbedömning för miljöolyckor
+(ange plats)
+Handlingsplan för förebyggande åtgärder
+(ange plats)
+
+
+
+
+
+5. Förbrukningsmaterial
+Typ
+Förbrukning
+Användningsområde
+Mängd
+Miljöpåverkan
+Resultat
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+Kommentar om förbrukningsmaterial (frivilligt)
+
+
+
+
+
+6. Råvaror och komponenter
+Bedömning av råvaror och komponenter
+Typ
+Förbrukning + (spill i %)
+Användningsområde
+Mängd
+Miljöpåverkan
+Resultat
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+Kommentar om råvaror och komponenter (frivilligt)
+
+
+
+
+
+
+7. Kemikalier och kemiska produkter
+
+Lista över kemikalier och kemiska produkter
+(ange plats)
+Lista över kemikalier och kemiska produkter kontrollerad och uppdaterad
+2025
+Kontrollerad av
+(ange namn)
+Kontroll genomförs 
+Halvår ☐
+Kvartal ☐
+Helår ☐
+
+Säkerhetsdatablad  
+(ange plats)
+Säkerhetsdatablad kontrollerade och uppdaterade 
+2025
+Kontrollerad av
+(ange namn)
+Kontroll genomförs
+Halvår ☐
+Kvartal ☐
+Helår ☐
+Bedömning av kemikalier och kemiska produkter
+Typ
+Förbrukning
+Användningsområde
+Mängd
+Miljöpåverkan
+Resultat
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+Kommentar om kemikalier och kemiska produkter (frivilligt)
+
+
+
+
+
+
+8. Avfall, farligt avfall och återvinning
+Bedömning av avfall
+Typ
+Förbrukning
+Hantering (intern/extern)
+Mängd
+Miljöpåverkan
+Resultat
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+Kommentar om avfall, farligt avfall och återvinning (frivilligt)
+
+
+
+Bedömning av återvinning/avfall
+Typ
+Förbrukning
+Hantering (intern/extern)
+Mängd
+Miljöpåverkan
+Resultat
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+9. Vatten och avlopp
+
+Källa
+Användning
+Volym (månad)
+Volym (år)
+Tar vägen vart?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finns fettavskiljare
+Ja ☐
+Nej, men behov finns ☐
+Nej, behövs inte ☐
+Om ja, när installerades anläggningen
+2025
+Hur ofta utförs underhålls kontroll på anläggningen
+(ange tidsintervall)
+Hur ofta töms anläggningen
+(ange tidsintervall)
+Total mängd fett/år
+(ange mängd)
+Ansvarig
+(ange namn)
+
+Finns oljeavskiljare
+Ja ☐
+Nej, men behov finns ☐
+Nej, behövs inte ☐
+Om ja, när installerades anläggningen
+2025
+Hur ofta utförs underhålls kontroll på anläggningen
+(ange tidsintervall)
+Hur ofta töms anläggningen
+(ange tidsintervall)
+Total mängd olja/år
+(ange mängd)
+Ansvarig
+(ange namn)
+Kommentar om vatten och avlopp (frivilligt)
+
+
+
+
+
+
+10. Buller
+
+Senaste bullermätning utförd
+2025
+
+Bullermätning utförd
+Inomhus ☐
+Utomhus ☐
+
+Vinter ☐
+Vår ☐
+Sommar ☐
+Höst ☐
+
+
+
+
+
+
+Källa
+Bullernivå i arbetsmiljö
+Bullernivå i omgivningsmiljö
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kommentar om buller (frivilligt)
+
+
+
+
+
+
+
+11. Energianvändning
+
+Total energianvändning för hela verksamheten (helår)
+2025
+Energianvändning för hela verksamheten (månad)
+Januari:
+Februari:
+Mars:
+April:
+Maj:
+Juni:
+Juli:
+Augusti:
+September:
+Oktober:
+November:
+December:
+Leverantör/er
+
+
+
+
+
+
+
+
+
+Energianvändning - avdelningsvis
+Användningsområde
+Energislag
+Miljömärkt
+Förbrukning (år)
+Förbrukning (vår)
+Förbrukning (höst)
+Avdelning
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+Avdelning
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+Avdelning
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+Kommentar om energianvändning (frivilligt)
+
+
+
+
+12. Transport
+
+Färdmedel + reg.nr
+Bränsleförbrukning
+CO2/år
+Bränsle
+Totalt antal km/år
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bedömning av transport (CO2-utsläpp)
+Färdmedel + reg.nr
+CO2-utsläpp/år
+Mängd
+Miljöpåverkan
+Resultat
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+Kommentar om transporter (frivilligt)
+
+
+
+
+
+
+13. Tjänsteresor
+
+Färdmedel
+Antal resor/år
+Medelavstånd
+Totalt anal km
+Miljövänligaste transportsättet valt
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+Ja ☐
+Nej ☐
+
+
+
+
+Ja ☐
+Nej ☐
+Om nej, ange varför
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tjänsteresor - Bil
+Biltyp + reg.nr
+Bränsleförbrukning
+CO2/år
+Bränsle
+Totalt antal km/år
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bedömning av tjänsteresor med bil (CO2-utsläpp)
+Biltyp + reg.nr
+CO2-utsläpp/år
+Mängd
+Miljöpåverkan
+Resultat
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+Kommentar om tjänsteresor (frivilligt)
+
+
+
+
+
+
+
+14. Resor till och från jobbet (frivilligt)
+
+Färdmedel
+Antal personer
+Antal resor/år
+Medelavstånd
+Totalt antal km
+Bil
+
+
+
+
+Kommentar
+
+
+Buss
+
+
+
+
+Kommentar
+
+
+Tåg
+
+
+
+
+Kommentar
+
+
+Moped
+
+
+
+
+Kommentar
+
+
+Cykel (vanlig)
+
+
+
+
+Kommentar
+
+
+Cykel (el)
+
+
+
+
+Kommentar
+
+
+Gå
+
+
+
+
+Kommentar
+
+Antal procent som använder två eller fler färdmedel: 
+
+15. Nödlägesberedskap
+
+Nödlägesberedskap
+(ange plats)
+Nödlägesberedskap kontrollerad och uppdaterad
+2025
+Kontrollerad av
+(ange namn)
+Nödlägesberedskap kontrolleras
+Kvartal ☐
+Halvår ☐
+Helår ☐
+Kommentar om nödlägesberedskap (frivilligt)
+
+
+
+16. Leverantörsbedömning ur miljösynpunkt
+
+Leverantörsbedömning
+(ange plats)
+Leverantörsbedömning kontrollerad och uppdaterad
+2025
+Kontrollerad av
+(ange namn)
+Leverantörsbedömning kontrolleras
+Kvartal ☐
+Halvår ☐
+Helår ☐
+Kommentar om leverantörsbedömning ur miljösynpunkt (frivilligt)
+
+
+
+17. Miljöpolicy
+
+Miljöpolicy
+(ange plats)
+Miljöpolicy kontrollerad och uppdaterad
+2025
+Kontrollerad av
+(ange namn)
+Miljöpolicy kontrolleras
+Kvartal ☐
+Halvår ☐
+Helår ☐
+Kommentar om miljöpolicy (frivilligt)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. Miljömål 
+
+Miljömål
+(ange plats)
+Miljömål kontrollerad och uppdaterad
+20XX-XX-XX
+Kontrollerad av
+(ange namn)
+Miljömål kontrolleras
+Kvartal ☐
+Halvår ☐
+Helår ☐
+
+Handlingsplan för miljömål
+(ange plats)
+Handlingsplan kontrollerad och uppdaterad
+20XX-XX-XX
+Kontrollerad av
+(ange namn)
+Resultat av handlingsplan kontrolleras
+Kvartal ☐
+Halvår ☐
+Helår ☐
+Kommentar om miljömål (frivilligt)
+
+
+
+
+
+
+
+
+
+
+
+
+
+19. Bedömning av miljöaspekter
+Miljöaspekt
+Mängd
+Miljöpåverkan
+Resultat
+Ansvarig
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+
+1 ☐
+2 ☐
+3 ☐
+1 ☐
+2 ☐
+3 ☐
+4 ☐
+5 ☐
+6 ☐
+
+
+Kommentar om bedömning av miljöaspekter (frivilligt)
+
+
+
+
+
+
+
+
+20. Betydande miljöaspekt
+
+Miljöaspekt
+Livscykel* för miljöaspekt beaktad
+Handlingsplan för miljöaspekt
+Ansvarig
+
+Ja ☐
+Nej ☐
+EJ RELEVANT ☐
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+EJ RELEVANT ☐
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+EJ RELEVANT ☐
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+EJ RELEVANT ☐
+Ja ☐
+Nej ☐
+
+
+Ja ☐
+Nej ☐
+EJ RELEVANT ☐
+Ja ☐
+Nej ☐
+
+
+Om ja, ange plats för handlingsplan
+(ange plats)
+Kommentar om betydande miljöaspekter (frivilligt)
+
+
+
+
+
+
+
+* Vid beaktande av en produkt/tjänst/material (betydande miljöaspekt) livscykelperspektiv tar man hänsyn till den totala miljöpåverkan, vilket innebär följande:
+Att man vid inköp väljer, så långt det är möjligt, den produkt/tjänst/material som har lägst miljöpåverkan.
+Att man under produktens/tjänstens/materialets livstid hanterar dessa med sådan omsorg att onödig miljöpåverkan inte uppstår.
+Att man vid sluthantering prioriterar återvinning och/eller återanvändning av hela eller delar av produkten/materialet, om detta inte är möjligt ska produkten/materialet hanteras på ett sådant sätt att negativ miljöpåverkan minimeras. 
+
+
+
+
+
+21. Positiva iakttagelser
+
+Område
+Beskrivning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

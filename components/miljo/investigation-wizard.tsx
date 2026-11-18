@@ -4,6 +4,7 @@ import { useMemo, useRef, useState } from "react";
 import { ArrowLeft, ArrowRight, Check, Plus, Trash2 } from "lucide-react";
 import Link from "next/link";
 import { createClient } from "@/lib/supabase/client";
+import { aspectClassLabel, calculateResult, classifyAspect } from "@kg/core";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
@@ -21,7 +22,7 @@ export function InvestigationWizard() {
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
   const [company, setCompany] = useState({ company_name: "", organization_number: "", address: "", contact_name: "", contact_email: "" });
-  const [aspects, setAspects] = useState<Aspect[]>([{ title: "Energianvändning", quantity: "0", impact: "1", notes: "" }]);
+  const [aspects, setAspects] = useState<Aspect[]>([{ title: "", quantity: "1", impact: "1", notes: "" }]);
   const [chemicals, setChemicals] = useState<Chemical[]>([emptyChemical("chemical-1")]);
   const [trips, setTrips] = useState<Trip[]>([]);
   const [others, setOthers] = useState<Other[]>([]);
@@ -31,7 +32,14 @@ export function InvestigationWizard() {
   const [quizAnswers, setQuizAnswers] = useState<Record<string, string>>({});
   const nextId = useRef(2);
 
-  const score = useMemo(() => aspects.reduce((sum, row) => sum + Number(row.quantity || 0) * Number(row.impact || 0), 0), [aspects]);
+  const score = useMemo(
+    () => aspects.reduce((sum, row) => sum + calculateResult(Number(row.quantity || 0), Number(row.impact || 0)), 0),
+    [aspects]
+  );
+  const significantCount = useMemo(
+    () => aspects.filter((row) => classifyAspect(calculateResult(Number(row.quantity || 0), Number(row.impact || 0))) === "betydande").length,
+    [aspects]
+  );
   const activeQuiz = quizQueue?.[0];
 
   function createId(kind: RegisterKind) {
@@ -44,30 +52,56 @@ export function InvestigationWizard() {
 
   async function saveAndContinue() {
     setSaving(true);
-    const supabase = createClient();
-    const { data: userData } = await supabase.auth.getUser();
-    if (!userData.user) {
-      window.location.href = "/auth/login?redirectTo=/investigation/new";
-      return;
-    }
-    if (step === 0) {
-      const { data: membership } = await supabase.from("organization_members").select("organization_id").eq("user_id", userData.user.id).limit(1).maybeSingle();
-      let organizationId = membership?.organization_id;
-      if (!organizationId) {
-        const { data: org } = await supabase.from("organizations").select("id").eq("name", "KvalitetsGruppen").limit(1).maybeSingle();
-        if (org) {
-          const { data: joined } = await supabase.from("organization_members").insert({ organization_id: org.id, user_id: userData.user.id, role: "owner" }).select("organization_id").single();
-          organizationId = joined?.organization_id;
+    try {
+      const supabase = createClient();
+      const { data: userData } = await supabase.auth.getUser();
+      if (!userData.user) {
+        // Lokalt arbete tillåts utan inloggning tills Supabase-testmiljö finns.
+        // Session-data behålls i komponentstate; permanent molnlagring kräver auth + org-medlemskap.
+        setSaved(true);
+        setStep(current => Math.min(current + 1, steps.length - 1));
+        return;
+      }
+      if (step === 0) {
+        const { data: membership } = await supabase
+          .from("organization_members")
+          .select("organization_id")
+          .eq("user_id", userData.user.id)
+          .limit(1)
+          .maybeSingle();
+        const organizationId = membership?.organization_id;
+        if (!organizationId) {
+          // Säkerhetsfix: auto-join till en delad org är borttagen.
+          // Användaren måste redan vara medlem i en organisation via serverside-flöde.
+          console.warn("Ingen organisationsmedlemskap hittades. Sparar endast lokalt i sessionen.");
+        } else {
+          const { data: investigation } = await supabase
+            .from("investigations")
+            .insert({
+              organization_id: organizationId,
+              title: company.company_name || "Ny miljöutredning",
+              status: "in_progress"
+            })
+            .select("id")
+            .single();
+          if (investigation) {
+            await supabase.from("investigation_company").upsert({
+              investigation_id: investigation.id,
+              ...company,
+              company_name: company.company_name || "Ny miljöutredning"
+            });
+          }
         }
       }
-      if (organizationId) {
-        const { data: investigation } = await supabase.from("investigations").insert({ organization_id: organizationId, title: company.company_name || "Ny miljöutredning", status: "in_progress" }).select("id").single();
-        if (investigation) await supabase.from("investigation_company").upsert({ investigation_id: investigation.id, ...company, company_name: company.company_name || "Ny miljöutredning" });
-      }
+      setSaved(true);
+      setStep(current => Math.min(current + 1, steps.length - 1));
+    } catch (error) {
+      console.warn("Kunde inte spara till molnet, fortsätter lokalt i sessionen.", error);
+      setSaved(true);
+      setStep(current => Math.min(current + 1, steps.length - 1));
+    } finally {
+      setSaving(false);
     }
-    setSaved(true);
-    setSaving(false);
-    setStep(current => Math.min(current + 1, steps.length - 1));
   }
 
   function enqueueQuiz(prompt: QuizPrompt) {
@@ -134,9 +168,31 @@ export function InvestigationWizard() {
             {step === 0 && <div className="grid gap-6 sm:grid-cols-2">{field("Företag eller organisation", company.company_name, value => setCompany({ ...company, company_name: value }))}{field("Organisationsnummer", company.organization_number, value => setCompany({ ...company, organization_number: value }))}{field("Adress", company.address, value => setCompany({ ...company, address: value }))}{field("Kontaktperson", company.contact_name, value => setCompany({ ...company, contact_name: value }))}{field("Kontakt-e-post", company.contact_email, value => setCompany({ ...company, contact_email: value }), "email")}</div>}
 
             {step === 1 && <>
-              <div className="flex flex-col gap-4">{aspects.map((row, index) => <Card key={index}><CardContent className="grid gap-3 p-4 sm:grid-cols-[1.5fr_0.7fr_0.7fr_1.5fr_auto]">{field("Aspekt", row.title, value => setAspects(rows => rows.map((item, itemIndex) => itemIndex === index ? { ...item, title: value } : item)))}{field("Omfattning", row.quantity, value => setAspects(rows => rows.map((item, itemIndex) => itemIndex === index ? { ...item, quantity: value } : item)), "number")}{field("Påverkan", row.impact, value => setAspects(rows => rows.map((item, itemIndex) => itemIndex === index ? { ...item, impact: value } : item)), "number")}{field("Anteckning", row.notes, value => setAspects(rows => rows.map((item, itemIndex) => itemIndex === index ? { ...item, notes: value } : item)))}<Button type="button" variant="ghost" size="icon" onClick={() => setAspects(rows => rows.filter((_, itemIndex) => itemIndex !== index))} aria-label="Ta bort aspekt"><Trash2 /></Button></CardContent></Card>)}</div>
-              <Button type="button" variant="outline" className="self-start" onClick={() => setAspects(rows => [...rows, { title: "", quantity: "0", impact: "0", notes: "" }])}><Plus data-icon="inline-start" /> Lägg till aspekt</Button>
-              <p className="text-sm text-muted-foreground">Preliminärt betydelsevärde: <strong className="text-foreground">{score.toFixed(1)}</strong></p>
+              <div className="flex flex-col gap-4">{aspects.map((row, index) => {
+                const result = calculateResult(Number(row.quantity || 0), Number(row.impact || 0));
+                const classification = classifyAspect(result);
+                return (
+                  <Card key={index}>
+                    <CardContent className="grid gap-3 p-4 sm:grid-cols-[1.5fr_0.7fr_0.7fr_0.7fr_1.2fr_auto]">
+                      {field("Aspekt", row.title, value => setAspects(rows => rows.map((item, itemIndex) => itemIndex === index ? { ...item, title: value } : item)))}
+                      <label className="flex flex-col gap-2 text-sm font-medium">Mängd (1–3)
+                        <Input type="number" min={1} max={3} value={row.quantity} onChange={event => setAspects(rows => rows.map((item, itemIndex) => itemIndex === index ? { ...item, quantity: event.target.value } : item))} />
+                      </label>
+                      <label className="flex flex-col gap-2 text-sm font-medium">Miljöpåverkan (1–6)
+                        <Input type="number" min={1} max={6} value={row.impact} onChange={event => setAspects(rows => rows.map((item, itemIndex) => itemIndex === index ? { ...item, impact: event.target.value } : item))} />
+                      </label>
+                      <div className="flex flex-col gap-2 text-sm">
+                        <span className="font-medium">Resultat</span>
+                        <span className="text-muted-foreground">{result || "–"} · {aspectClassLabel(classification)}</span>
+                      </div>
+                      {field("Anteckning", row.notes, value => setAspects(rows => rows.map((item, itemIndex) => itemIndex === index ? { ...item, notes: value } : item)))}
+                      <Button type="button" variant="ghost" size="icon" onClick={() => setAspects(rows => rows.filter((_, itemIndex) => itemIndex !== index))} aria-label="Ta bort aspekt"><Trash2 /></Button>
+                    </CardContent>
+                  </Card>
+                );
+              })}</div>
+              <Button type="button" variant="outline" className="self-start" onClick={() => setAspects(rows => [...rows, { title: "", quantity: "1", impact: "1", notes: "" }])}><Plus data-icon="inline-start" /> Lägg till aspekt</Button>
+              <p className="text-sm text-muted-foreground">Summa resultat: <strong className="text-foreground">{score}</strong> · Betydande aspekter: <strong className="text-foreground">{significantCount}</strong></p>
             </>}
 
             {step === 2 && <div className="flex flex-col gap-8">

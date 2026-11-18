@@ -1,0 +1,22 @@
+appId: se.kvalitetsgruppen.miljoutredning.desktop
+productName: Miljöutredning – KvalitetsGruppen
+directories:
+  output: release
+files:
+  - out/**/*
+  - package.json
+extraResources:
+  - from: node_modules/sql.js/dist/sql-wasm.wasm
+    to: sql-wasm.wasm
+win:
+  target:
+    - target: nsis
+      arch:
+        - x64
+  artifactName: ${productName} Setup ${version}.${ext}
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
