@@ -6,13 +6,14 @@
   "productName": "Miljöutredning – KvalitetsGruppen",
   "main": "out/main/index.js",
   "scripts": {
-    "dev": "electron-vite dev --config vite.config.ts",
-    "build": "electron-vite build --config vite.config.ts",
-    "dist": "npm run build && electron-builder --win nsis"
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "dist": "npm run build && electron-builder --win nsis --config electron-builder.yml"
   },
   "dependencies": {
     "@kg/core": "*",
     "@kg/data": "*",
+    "@kg/product": "*",
     "sql.js": "^1.13.0",
     "zod": "^4.1.13"
   },

@@ -1,105 +1,51 @@
-# Quality WorX App Template
+# Miljöutredning – KvalitetsGruppen
 
-Official starter template for all future Quality WorX applications.
+Digital miljöutredning för webb och Windows, byggd på **KvalitetsGruppen App Template**.
 
-This repository is intentionally a foundation, not a product. It provides the shared architecture, design tokens, layout shells, UI primitives, and documentation standards that every future Quality WorX application can extend.
-
-## Principles
-
-- Build once at the platform layer, reuse across products.
-- Prefer composition over feature-specific abstractions.
-- Keep domain logic out of the starter.
-- Document decisions so future teams can move fast without guesswork.
-
-## Tech Stack
-
-- Next.js
-- TypeScript
-- Tailwind CSS
-- shadcn/ui-compatible structure
-- Radix UI
-- Lucide React
-
-## Included Foundation
-
-- semantic design token system
-- reusable layout shells
-- neutral UI primitives
-- reusable page states
-- theme-ready light and dark styling
-- platform architecture documentation
-
-## Folder Structure
-
-```text
-app/
-components/
-  common/
-  layout/
-  ui/
-docs/
-hooks/
-lib/
-public/
-styles/
-types/
-```
-
-## Primary Layout Shells
-
-- `AppLayout`
-- `DashboardLayout`
-- `DocumentLayout`
-- `SettingsLayout`
-
-## Core UI Primitives
-
-- `Button`
-- `Card`
-- `Input`
-- `Textarea`
-- `Select`
-- `Dialog`
-- `Table`
-- `Badge`
-- `Progress`
-
-## Shared Presentation Components
-
-- `Sidebar`
-- `Topbar`
-- `Breadcrumb`
-- `PageHeader`
-- `EmptyState`
-- `LoadingState`
-- `ErrorState`
-
-## Documentation
-
-- `PROJECT_BRIEF.md`
-- `DESIGN_SYSTEM.md`
-- `ARCHITECTURE.md`
-- `ROADMAP.md`
-- `CHANGELOG.md`
-- `AGENTS.md`
-- `docs/QUALITY_WORX_PRODUCT_PRINCIPLES.md`
-- `docs/`
-
-## Getting Started
+## Starta lokalt
 
 ```bash
 npm install
-npm run dev
+npm run dev            # webb (Next.js)
+npm run desktop:dev    # Windows (Electron)
+npm run test:core
+npm run test:data
 ```
 
-## Non-Goals
+Bygg installerbart Windows-program:
 
-This template does not include:
+```bash
+npm run desktop:dist
+```
 
-- business workflows
-- product-specific routes
-- data models
-- API integrations
-- Quality WorX module logic
+Setup.exe skapas under `apps/desktop/release/`.
 
-Future applications should clone this repository and add those concerns on top of the shared foundation.
+## Struktur
+
+```text
+apps/desktop/          Electron + SQLite (sql.js)
+packages/core/         typer, bedömning, repository-gränssnitt
+packages/data/         memory-/Supabase-adaptrar, migrationer
+packages/product/      Miljöutredningens 21 avsnitt
+packages/ui/           delad UI (under migrering)
+supabase/migrations/   förberedda Postgres/RLS-migrationer
+docs/                  inventering, arkitektur, status
+```
+
+Webbappen ligger tills vidare i repo-roten (Next.js) så att befintlig Vercel-setup fortsätter fungera.
+
+## Dokumentation
+
+- `docs/INVENTORY.md`
+- `docs/PRODUCT_CONTENT_MAP.md`
+- `docs/DUAL_PLATFORM.md`
+- `docs/NEW_APP_FROM_WORD.md`
+- `docs/QUALITYWORKS_PORTAL.md`
+- `docs/STATUS.md`
+
+## Viktiga regler
+
+- Ingen merge till `main` utan godkännande
+- Ingen produktionspublicering i denna etapp
+- Windows fungerar offline utan Supabase
+- Supabase-tester är blockerade tills testdatabas finns
