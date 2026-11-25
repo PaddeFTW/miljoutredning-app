@@ -1,0 +1,1496 @@
+﻿
+222885245745002228858745855Detta är en produkt från Kvalitetsdokument.se
+dokument@kvalitetsdokument.se
+Vi som står bakom Kvalitetsdokument.se är Kvalitetsgruppen Hässleholm AB. Vi är ett konsultföretag som hjälper småföretag att införa kvalitets-, miljö- och arbetsmiljöledningssystem. Ni hittar mer information om oss på  HYPERLINK "https://kvalitetsgruppen.com/"Kvalitetsgrupppen.com
+
+00Detta är en produkt från Kvalitetsdokument.se
+dokument@kvalitetsdokument.se
+Vi som står bakom Kvalitetsdokument.se är Kvalitetsgruppen Hässleholm AB. Vi är ett konsultföretag som hjälper småföretag att införa kvalitets-, miljö- och arbetsmiljöledningssystem. Ni hittar mer information om oss på  HYPERLINK "https://kvalitetsgruppen.com/"Kvalitetsgrupppen.com
+
+2228853207385Miljöutrening
+För ISO 14001:2015
+00Miljöutrening
+För ISO 14001:2015
+
+
+Innehållsförteckning
+ TOC \o "1-3" \h \z \u Fri support PAGEREF _Toc187317843 \h 3
+Komma igång PAGEREF _Toc187317844 \h 3
+Inledning PAGEREF _Toc187317845 \h 4
+Metod och material PAGEREF _Toc187317846 \h 4
+Problemformulering PAGEREF _Toc187317847 \h 4
+Att införa ett miljöledningssystem PAGEREF _Toc187317848 \h 5
+Förfarandet – en allmän beskrivning PAGEREF _Toc187317849 \h 5
+Miljöutredning PAGEREF _Toc187317850 \h 6
+Miljöpolicy PAGEREF _Toc187317851 \h 6
+Miljömål PAGEREF _Toc187317852 \h 6
+Handlingsplan PAGEREF _Toc187317853 \h 6
+Uppföljning PAGEREF _Toc187317854 \h 6
+Ständig förbättring PAGEREF _Toc187317855 \h 7
+ISO 14001:2015 PAGEREF _Toc187317856 \h 7
+Miljöutredning PAGEREF _Toc187317857 \h 7
+Miljöaspekt PAGEREF _Toc187317858 \h 8
+Lagar och andra krav PAGEREF _Toc187317859 \h 10
+Miljöolyckor PAGEREF _Toc187317860 \h 11
+Miljö olycksrisker PAGEREF _Toc187317861 \h 12
+Förbrukningsmaterial PAGEREF _Toc187317862 \h 13
+Råvaror och komponenter PAGEREF _Toc187317863 \h 14
+Transporter PAGEREF _Toc187317864 \h 15
+Kemikalier och kemiska produkter PAGEREF _Toc187317865 \h 16
+Avfall, farligt avfall och återvinning PAGEREF _Toc187317866 \h 17
+Vatten och avlopp PAGEREF _Toc187317867 \h 18
+Energiförbrukning PAGEREF _Toc187317868 \h 19
+Buller PAGEREF _Toc187317869 \h 20
+Resor till och från jobbet PAGEREF _Toc187317870 \h 21
+Koldioxid Kg PAGEREF _Toc187317871 \h 21
+Tjänsteresor PAGEREF _Toc187317872 \h 22
+Värdering av miljöaspekter PAGEREF _Toc187317873 \h 23
+Värdering av miljöaspekter PAGEREF _Toc187317874 \h 24
+Lagkrav PAGEREF _Toc187317875 \h 25
+Slutsats PAGEREF _Toc187317876 \h 25
+
+Fri support
+Ni har rätt till fri support för hur denna produkt skall användas i er verksamhet. Vänd er till dokument@kvalitetsgruppen.com eller ring oss måndag – fredag, 08.00-17.00 på 0451-837 15 om ni har frågor.  
+
+Komma igång
+ 
+Fyll i informationen i nedanstående blanketter.
+Kontakta eventuella underentreprenörer och be dem skicka in den information som du behöver för att fylla i alla blanketter. 
+Flytta över all information till ett nytt dokument eller ta bort den information som inte bör vara med i den slutgiltiga versionen (exempelvis rubrikerna ”Fri support” ”Komma igång”. samt alla referenser till KvalitetsDokument.se etc.) 
+Glöm inte att involvera berörda medarbetare inom er organisation, de kanske ser om något behöver läggas till eller om något kan tas bor.
+
+Inledning
+För att miljöplanen ska uppfylla de specificerade kraven för projektet har uppmärksamhet ägnats åt att:
+
+Kontinuerlig utveckla och uppdatera miljöplanen.
+Kontinuerligt identifiera miljöaspekter och miljörisker på byggarbetsplatsen.
+I god tid identifiera alla miljölagar och andra krav i projektet.
+Kontinuerligt säkerställa samstämmighet mellan olika aktörer.
+
+
+Inledning
+Syftet med arbetet att införa ett miljöledningssystem är att öka engagemanget och kunnandet bland de anställda, ständigt förbättra miljöarbetet inom verksamheten, minska miljöbelastningen som uppkommer av verksamheten samt att sträva mot en hållbar utveckling. Dvs. genom att sträva efter en certifiering i enlighet med ISO 14001:2015, eftersträvas även en kontinuerlig uppföljning och utveckling av verksamhetens miljöarbete.
+
+”Hållbar utveckling innebär en utveckling som tillgodoser våra behov idag, utan att äventyra kommande generationers möjligheter att tillgodose sina behov.”
+
+I detta begrepp ingår de tre aspekterna ekologi, ekonomi samt sociala och kulturella aspekter. 
+
+Som ett led i detta arbete ska vi utföra en miljöutredning över företaget och dess verksamhets miljöpåverkan. Miljöutredningen är tänkt att fungera som underlag vid det fortsatta arbetet med miljöledningssystemet (miljömål, miljöpolicy, miljöprogram och miljöhandlingsplan) och förhoppningsvis ska den även underlätta det framtida miljöarbetet på företaget. Den ska även klargöra brister och behandla olika möjligheter till förbättring av verksamhetens miljöarbete.
+
+Vidare kan utredningen förhoppningsvis vara till nytta även för det övergripande miljöarbetet på företaget. Ansvarig för det övergripande miljöledningsarbetet vid företaget är miljöansvarig. 
+
+Metod och material
+Utredningen har gjorts av undertecknande under en tioveckorsperiod på uppdrag av företagsledningen och har bestått av en granskning av företagets verksamhet under år ……………... Arbetet baserar sig till stor del på granskade statistikuppgifter och granskning av den befintliga verksamheten. I denna utredning har en mer övergripande och tydlig sammanställning över företagets materialflöden gjorts för att ge en tydlig bild över hur verksamheten ser ut idag. Det material som använts i utredningen är i huvudsak insamlade statistikuppgifter, egna undersökningar och antaganden samt en hel del insamlade arkiverade data.
+
+Problemformulering
+Vilka är företagets miljöaspekter? 
+Hur ser företagets miljöarbete ut idag? 
+Vilka brister har det och hur kan det förbättras?
+
+
+Att införa ett miljöledningssystem
+Här nedan följer en sammanfattande förklaring över processen att införa ett miljöledningssystem så som till exempel ISO 14001. 
+
+Förfarandet – en allmän beskrivning
+Ett miljöledningssystem kan sägas vara den del av det övergripande ledningssystemet inom en verksamhet som omfattar organisationsstruktur, planering, ansvarsfördelning, praxis, arbetsrutiner, processer och resurser för att utveckla, införa, uppfylla, revidera och underhålla miljöpolicyn. Här nedan visas en förenklad bild av den kontinuerliga processen, samt en mer detaljerad figur.
+
+
+
+
+                  
+___________________________________________________________________________
+
+Miljöutredning
+I den inledande fasen av arbetet med att införa ett miljöledningssystem görs en miljöutredning. Denna bör omfatta en heltäckande analys av de miljöförhållanden och det miljöarbete som är förknippat med en viss verksamhet. Verksamhetens betydande miljöaspekter granskas och värderas.
+
+Miljöpolicy
+Med miljöutredningen som underlagsmaterial utarbetas en miljöpolicy för företaget. Policyn ska visa företagets arbete med att minska verksamhetens miljöbelastning, med utgångspunkt från de i miljöutredningen identifierade betydande miljöaspekterna. 
+
+En miljöpolicy ska vara relevant formulerad och inte innehålla onödiga utsvävningar och visioner som saknar egentlig verklighetsförankring. Den bör vara relevant i förhållande till företagets typ, storlek och miljöpåverkan samt innehålla åtaganden om ständig förbättring och förebyggande av föroreningar. Vidare bör policyn innehålla åtaganden om att följa författningar och andra krav.
+
+För det fortsatta arbetet utgör miljöpolicyn grunden för att utarbeta och följa upp miljömålen. Den ska finnas dokumenterad, införd, uppdaterad och kommunicerad till de anställda inom företaget. Dessutom ska den finnas tillgänglig för allmänheten.
+
+Miljömål 
+Miljömålen är de konkreta mål man har åtagit sig att uppnå med företagets miljöarbete och de ska kopplas till de betydande miljöaspekterna som identifierats i miljöutredningen. Miljömålen bör vara kvantifierbara (enhetsrelaterade) där så är möjligt. Kvantifierbara miljömål brukar kallas för nyckeltal. Ett nyckeltal är alltså en indikator på en kvantifierbar miljöbelastning. Miljömålen gör det lättare att utföra övervakning av den löpande verksamheten och de förenklar även ledningens genomgång av miljöarbetet.
+
+Handlingsplan
+Som en naturlig följd efter framtagandet av miljöpolicy och miljömål, följer en handlingsplan och genomförande. Ansvaret för miljöåtgärderna och befogenheten att genomföra dem fördelas i företaget. Det är viktigt att medarbetarnas kunskaper utvecklas och att en etablering av väl fungerande arbetsrutiner, såväl för det interna miljöarbetet som kontakter utanför företaget görs. Handlingsplanen utarbetas av företagets miljösamordnare i nära samarbete med den berörda personalen. I planen ska det klart och tydligt framgå vad som ska förbättras och hur, vem som utför förbättringarna och vem som står som ansvarig för att arbetet verkligen utförs och att resultatet granskas och utvärderas. Det ska även klart framgå när de olika åtgärderna ska vara genomförda. Här utgör kommunikation mellan verksamhetens ledning och de övriga anställda (intern kommunikation) en oerhört viktig del av arbetet. Även en extern kommunikation till allmänheten och övriga intresserade kan vara nödvändig.
+
+Uppföljning
+För att göra det fortsatta arbetet möjligt görs efter en tid en uppföljning av vad som åstadkommits, ofta genom en s.k. miljörevision. I revisionen granskas om handlingsplanen har blivit genomförd. Eftersom revisioner görs kontinuerligt, vanligen en gång per år, bör det upprättas rutiner för detta arbete för att underlätta efterföljande revisioner av miljöledningssystemet. Miljörevisioner av verksamheten är absolut nödvändiga för att ledning och övrig personal ska få relevant information om hur arbetet fortskrider och vilka framsteg som görs i miljöarbetet. En revision visar även ifall ev. brister finns vad gäller miljöledningssystemets överensstämmelse med de åtgärder som satts upp i verksamheten. Här framkommer om kraven uppfylls och om det behövas några uppdateringar eller förändringar av miljöledningssystemet till kommande revision.
+
+Ständig förbättring
+Vad hela arbetet med ett miljöledningssystem bygger på är att hela tiden minska en verksamhets miljöpåverkan genom att ständigt förbättra miljöarbetet. Verksamhetens ledning gör en genomgång av det befintliga miljöarbetet och miljöledningssystemet granskas för att utreda om det behöver förnyas och/eller effektiviseras. Vid ledningens genomgång samlas nödvändig information in och utvärderas. Denna genomgång ska dokumenteras och omfatta behov av förändringar av miljöpolicy, mål etc. Ledningens genomgång är ett bra sätt att se tillbaka på verksamheten och ta lärdom av detta inför det framtida miljöarbetet.
+
+ISO 14001:2015
+ISO 14001:2015 är en kravspecifikation, som specificerar de krav, som miljöledningssystemet måste uppfylla för ett företag/organisation och dess verksamhet. I standarden framgår vilka kraven är (de 52 skallkraven). Det är företagen/organisationen själva som avgör hur kraven ska efterlevas. 
+
+Här finns olika tips och råd, samt en femstegsmodell som kan vara till god hjälp när miljöledningssystemet ska införas i verksamheten. ISO 14001:2015 vänder sig till verksamheter av både privat och offentlig karaktär, såväl stora som små och liknar till sin struktur kvalitetssystemstandarden i ISO9001:2008. Det är vanligt att ett företag länkar samman dessa standarder för att ytterligare förbättra både sitt miljö- och kvalitetsarbete.
+
+Miljöutredning
+Miljöutredningen utgör huvuddelen i detta arbete och här nedan redogörs för de miljöaspekter som kommer att beröra verksamheten på företaget. Denna utredning är alltså att betrakta som tämligen fristående i den mening att den gjorts enbart på företaget och inte baseras på någon tidigare utredning. Miljöansvarig på företaget ska ha hand om det övergripande miljöledningsarbetet som bedrivs och för införandet av ISO 14001: 2015. 
+
+Miljöutredningen är en heltäckande nulägesanalys av miljöförhållanden, miljöpåverkan och miljöarbete vid företaget. Utredningen ska kartlägga företagets effekter på vatten, luft och mark. Den ska vidare redovisa resursutnyttjande, utsläpp, avfallshantering, produktplanering, energikonsumtion, buller och så vidare. 
+ 
+I detta sammanhang talas om en verksamhets direkta och indirekta miljöpåverkan. Den direkta miljöpåverkan är den påverkan som företaget själv ger upphov till såsom utsläpp från transportfordon, energiförbrukning i de egna lokalerna, pappersförbrukning mm. Indirekt miljöpåverkan uppkommer vid verksamhet som inte ingår i företagets verksamhet, men som ändå är kopplat till denna (tex. underleverantörer). I denna miljöutredning utreds endast direkta faktorer. Miljöutredningen ska även behandla lagar som berör företaget. Utredningen utgör alltså grunden till det fortsatta miljöarbetet.
+
+Miljöaspekt
+En miljöaspekt är per definition, en del av verksamheten som orsakar någon form av miljöpåverkan. Genom kontinuerlig identifiering och prioritering av de miljöaspekter som orsakas av verksamheten, ska företaget kunna sätta upp relevanta miljömål. 
+
+Det finns två huvudtyper av miljöaspekter nämligen betydande eller övriga miljöaspekter. En aspekt blir betydande om den påverkar miljön mer än andra miljöaspekter. De betydande miljöaspekterna är de som i huvudsak beaktas i det fortsatta miljöarbetet och de som ligger till grund för denna miljöutredning. 
+
+Verksamhetsbeskrivning
+
+Beskriv hur verksamheten ser ut i nuläget genom att fylla i tabellen.
+Beskriv kortfattat er verksamhet och era produkter.
+Beskriv företagets läge och närhet till bebyggelse, naturkänsliga områden, vattentäkt etc eller ta fram en karta över området.
+
+Ange antalet anställda och hur stor omsättningen är.
+Ta fram ett organisationsschema.
+Beskriv vem som har ansvar för den yttre miljön, eventuellt kan det vara kommunen eller fastighetsägaren.
+
+Ta fram en ritning över anläggningen.
+Ta fram en
+
+Dessa dokument ska tas fram
+
+Organisationsschema
+Lokalens planlösning
+Karta över anläggningen
+
+
+Företagsnamn
+
+Företagsrepresentant
+
+Adress 
+
+Postnr 
+
+Ort
+
+Mobil
+
+Epost
+
+Hemsidan
+
+Verksamhet/Produkter
+
+
+
+
+
+Företagets läge
+
+
+
+
+
+Antal anställda
+
+Miljöansvarig
+
+En karta över anläggningen finns i bilaga
+
+Information
+
+
+
+
+
+
+
+
+
+
+Lagar och andra krav
+Du ska ange de miljölagar, förordningar, föreskrifter, allmänna bestämmelser, kundkrav och andra krav som gäller för verksamheten. Samla in information från kommunens miljökontor, naturvårdsverket, arbetsmiljölagen, kunder, leverantörer, önskemål från anställda och eventuella styrelsebeslut. Det är inte bara myndigheter och kunder som ställer krav på verksamheten. Det finns många andra intressenter också till exempel grannar, försäkringsbolag och alla som arbetar i företaget.
+
+Krav från
+Beskrivning
+Avvikelser från krav
+T ex: Tillstånd och kontrollprogram enligt Miljöskyddslagen
+
+
+
+
+
+
+
+
+T ex: Lagkrav på produkterna
+
+
+T ex: Krav och önskemål från kunder och leverantörer
+
+
+T ex: Krav och önskemål från grannar eller anställda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+Krav från
+Du ska ange vem kraven kommer ifrån, det kan vara myndigheter, kunder, leverantörer, anställda och företagets egna krav.
+
+Beskrivning
+Du ska beskriva vad för lagar eller krav som gäller.
+
+Avvikelse från krav
+Du ska ange om ni idag inte följer de lagar, förordningar eller krav som ställs på er.
+
+
+Miljöolyckor
+I den här delen så ska man ta reda på vilka olyckor som har skett de senaste fem åren samt att ta reda på vilka olycksrisker som finns i verksamheten. I tabellen ska du sammanfattas de olyckor och tillbud som inträffat de fem senaste åren och som givit eller skulle kunna ha givit negativ påverkan på den yttre miljön.
+
+
+Datum
+Plats
+Vad var orsaken till olyckan?
+Skada på miljön
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+Datum
+Här ska du ange när olyckan inträffade vilket år, månad, dag och eventuell tidpunkt.
+
+Plats
+Här ska du ange var olyckan inträffade.
+
+Vad var orsaken till olyckan:
+Här ska du beskriva vad som orsakade olyckan.
+
+Skada på miljön
+Här ska du beskriva vilken skada miljön fick samt ange graden av skada på miljön förslagsvis, mindre, större, allvarlig.
+
+
+
+
+
+Miljö olycksrisker
+Process, lokal eller aktivitet
+Olycksrisk
+Förebyggande av olycksrisk
+Åtgärd vid inträffad olycka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+
+Process, lokal eller aktivitet
+
+Olycksrisk
+
+Förebyggande av olycksrisk
+
+Åtgärd vid inträffad olycka
+
+
+
+
+Förbrukningsmaterial
+Du ska ta reda på hur mycket förbrukningsmaterial som företaget gjort av med under den fastställda perioden. Titta på vilka inköp som har gjorts för året och uppskatta hur mycket som ni gjort av med.
+
+Typ
+Mängd
+Användningsområde
+Miljöpåverkan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+
+Typ
+Här anges vad det är för material/produkt. 
+
+Mängd
+Här anges hur mycket material som har köpts/använts i under perioden.
+
+Användningsområde
+Var i företagets används förbrukningsmaterialet. 
+
+Kommentar avseende miljöpåverkan
+Har produkten en miljöpåverkan eller är mängden så pass stor att det kan anses som miljöpåverkande.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Råvaror och komponenter 
+Du ska ta reda på hur mycket råvaror och komponenter som företaget gjort av med under den fastställda perioden. Titta på vilka inköp som har gjorts för att uppskatta hur mycket som ni gör av med.
+
+
+Typ
+Mängd
+Ta vägen vart
+Miljöpåverkan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+Typ
+Här anges vad det är för material/produkt. 
+
+Mängd
+Här anges hur mycket material som har köpts/använts i under perioden.
+
+Tar vägen vart
+Här ska det stå t ex 75 % del av produkt, 25 % spill, skickar man spillet till t ex återvinning så ska detta anges här. 
+
+Kommentar avseende miljöpåverkan
+Har produkten en miljöpåverkan eller är mängden så pass stor att det kan anses som miljöpåverkande.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transporter
+Fyll i hur stor mängd bränsle som förbrukas per år, räkna ut det totala antalet km som körs årligen samt medelantalet. Därefter kan ni räkna ut hur mycket koldioxid som eran bränsleförbrukning leder till. Ni kan välja mellan att räkna på varje enskild lastbil eller räkna ihop alla i en. 
+
+Låt säga att det är en bensindriven lastbil som drar 0,7 liter milen och som kör 100 mil per år. Då multiplicerar du antalet mil med 0,7 och sedan svaret med 2,40 (en liter bensin ger utsläpp på ungefär 240 g eller 2,4 kilo).  
+
+Färdmedel
+Bränsleförbrukning
+Medelantal km
+Totalt antal km
+Koldioxid Kg
+Kommentar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+
+Exempel
+
+100 mil * 0,7 liter milen= 70 liter bensin
+70 liter * 2,4= 168 kilo koldioxid
+Utsläppen blir ca 168 kilo koldioxid per år.
+ 
+Du gör samma sak med en dieseldriven lastbil med skillnaden att diesel släpper ut, 54 kilo eller 254g per liter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kemikalier och kemiska produkter
+Här gäller det att sammanställa alla kemikalier som används och hur mycket man gör av med. Tänk på att även ta med de produkter som används i köket/fikarummet och hygienen samt till lokalvård. Det kan vara svårt att definiera vad som är en kemikalier eller kemisk produkt. 
+
+Typ av kemikalier
+Mängd
+Användning
+Tar vägen vart?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+Typ av kemikalier
+Här ska det anges vilka kemikalier som finns i verksamheten.
+
+Mängd
+Här ska det anges hur mycket av varje kemikalier det finns under året.
+
+Användning
+Här ska det anges vad respektive kemikalier används till.
+
+Tar vägen vart?
+Vart tar respektive kemikalier vägen efter användning? Förångas kemikalierna, blandas med annat avfall eller följer den med produkten ut.
+
+Avfall, farligt avfall och återvinning
+Redovisa här vilka typer av farligt avfall som uppstår på företaget och hur de hanteras. Kraven på företaget att ha en bra avfallshantering ökar ständigt. Utvecklingen i dagens samhälle går mot att man delar upp avfallet i fler och fler ”fraktioner”. I lagöversikten finns de lagar som rör avfall listade. 
+
+Farligt avfall är sådant avfall som måste hanteras och behandlas enligt särskilda restriktioner. Det gäller till exempel allt avfall förorenat med spillolja.  Förordningen om farligt avfall står det även att de som transporterar och hanterar farligt avfall måste ha tillstånd för att göra det. Som producent av farligt avfall är man skyldig att kontrollera att dessa tillstånd finns. Man ska dessutom föra journal över det farliga avfallet.
+
+Avfalls typ
+Mängd
+Intern hantering
+Extern hantering
+Kostnad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+Avfalls typ
+Vad respektive fraktion kallas och vad som ingår i den.
+
+Mängd
+Årlig kvantitet
+
+Intern hantering
+Uppkomst, insamling och förvaring av det miljöfarliga avfallet. Säkerhetsåtgärder som invallning, lås, bevakning, larm. Vem journalför avfallet?
+
+Extern hantering
+Externt: Transportör, mottager, behandling (exempelvis energiåtervinning) om detta är känt. Har extern hanterare tillstånd?
+
+Kostnad
+För den externa hanteringen
+
+
+
+
+Vatten och avlopp
+Ta reda på hur mycket vatten som företaget förbrukar och hur mycket som släpps ut direkt i avloppet. Mycket energi och resurser går åt till att bygga upp avloppsnät och rena det vatten som används. Men vattnet blir aldrig riktigt rent och föroreningarna bidrar bland annat till övergödning av sjöar och vattendrag. Mycket vatten renas inte alls. Detta gäller ofta för vatten i avloppsnätet eller dagvattenledningar. Försök att kartlägga företagets avloppsnät så att ni vet vart olika typer av flöden, spill etc tar vägen. 
+
+Källa
+Användning
+Volym
+Avledning
+Föroreningar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+
+Källa
+Till exempel kommunalt vatten, egen brunn
+
+Användning
+Till exempel sanitetsvatten, spola av t ex fordon
+
+Volym
+Årlig volym in
+
+Avledning
+Till exempel kommunal avloppsledning (dvs till kommunalt reningsverk), dagvattenledning (ofta utan rening), via eget reningsverk till vattenverket, uppsamlas och omhändertas som farligt avfall, eventuell avdunstning etc
+
+Föroreningar
+Årliga kvantiteter i kilo om detta är känt. Eventuellt eget reningsverk kan beskrivas närmare i avsnittet Mer om vissa processer.
+
+
+
+
+Energiförbrukning
+För att ta reda på hur stor energiförbrukningen är gör en sammanställning från era fakturor för att få en summa av er elförbrukning. Hör med ert energibolag för att få reda på vilket energislag som ni köper. Det är bara förnyelsebar energi som har en liten eller ingen miljöpåverkan. För lokaluppvärmning bör man ta fram ett medeltal för flera årsförbrukningar för att utjämna skillnader mellan kalla och varma vintrar. Elförbrukning bör kanske relateras till produktionsvolymen på något sätt.
+
+Användningsområde
+Energislag
+Miljömärkt
+Förbrukning
+Kostnad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+Användning
+Till exempel lokaluppvärmning, el för motorer/processer etc.
+
+Energislag
+Till exempel egen oljepanna, fjärrvärme, kärnkraft, gas, vattenkraft, vindkraft etc.
+
+Förbrukning
+Årlig förbrukning
+
+KostnadHär ska du skriva in vad det kostar per år för företaget.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buller
+Buller betraktas om en miljöförorening. Det finns restriktioner för hur hög bullernivån får vara utanför anläggningen. Ta reda på om det finns störande buller som är högre än lagen medger.
+Har företaget utfört bullermätningar i och utanför anläggningen? 
+Har företaget fått klagomål från grannar eller myndigheter?
+
+
+Källa
+Bullernivå och/eller störning i arbetsmiljön
+Bullernivå och/eller störning i omgivningsmiljön
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+
+Källa
+Ta reda varifrån bullret kommer
+Bullernivå och/eller störning i arbetsmiljön
+Ta reda på bullernivån och kontrollera att den följer minst lagens föreskrifter.
+Bullernivå och/eller störning i omgivningsmiljön
+Ta reda på om det stör företagets omgivning mer än lagen tillåter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resor till och från jobbet
+Personalens resor till och från arbetet kan stå för en betydande del av ett företags totala miljöbelastning. Fråga personalen om deras resor till jobbet. 
+
+Färdmedel
+Antalet resor per år
+Medelavstånd
+Totalt antal km
+Koldioxid Kg
+Kommentar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buss
+
+
+
+
+
+Tåg
+
+
+
+
+
+Flyg
+
+
+
+
+
+Övrigt
+
+
+
+
+
+Information
+
+Färdmedel
+Dela upp i typ. Till exempel bil, buss etc
+
+Antal resor årligen
+Medelavstånd
+Totalt antal km
+
+Koldioxid Kg
+För att räkna ut koldioxidutsläppen, gå in på konsumentverkets hemsida och titta på deras avsnitt om bilar där finns en publikation om bränsleförbrukning. 
+
+Låt säga att det är en bensindriven bil som drar 0,7 liter milen och som kör 100 mil per år. Då multiplicerar du antalet mil med 0,7 och sedan svaret med 2,40 (en liter bensin ger utsläpp på ungefär 240 g eller 2,4 kilo).
+
+100 mil * 0,7 liter milen= 70 liter bensin
+70 liter * 2,4= 168 kilo koldioxid
+Utsläppen blir ca 168 kilo koldioxid per år.
+ 
+Du gör samma sak med en dieselbil med skillnaden att diesel utsläppen blir 54 kilo eller 254g per liter.
+
+Kommentar
+För biltransporter kan det vara intressant att notera hur många som samåker om detta har framgått av undersökningen.
+
+
+
+
+
+
+
+Tjänsteresor
+Tjänsteresor kan indelas i resor med bil, tåg och flyg. Reseräkningar är en bra informationskälla. Vid flygresor anges normalt inte distansen på reseräkningen.
+
+Färdmedel
+Antalet resor per år
+Medelavstånd
+Totalt antal km
+Koldioxid Kg
+Kommentar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buss
+
+
+
+
+
+Tåg
+
+
+
+
+
+Flyg
+
+
+
+
+
+Övrigt
+
+
+
+
+
+Information
+Koldioxid Kg
+För att räkna ut koldioxidutsläppen, gå in på konsumentverkets hemsida och titta på deras avsnitt om bilar där finns en publikation om bränsleförbrukning. 
+
+Låt säga att det är en bensindriven bil som drar 0,7 liter milen och som kör 100 mil per år. Då multiplicerar du antalet mil med 0,7 och sedan svaret med 2,40 (en liter bensin ger utsläpp på ungefär 240 g eller 2,4 kilo).
+
+100 mil * 0,7 liter milen= 70 liter bensin
+70 liter * 2,4= 168 kilo koldioxid
+Utsläppen blir ca 168 kilo koldioxid per år.
+ 
+Du gör samma sak med en dieselbil med skillnaden att diesel utsläppen blir 54 kilo eller 254g per liter.
+
+
+Värdering av miljöaspekter
+
+Syfte
+Är bestämma vilken ordning företaget anser att tjänster/produkter skall rangordnas.
+
+Vägledning
+Här sammanfattas resultaten i en lista på de mest betydande miljöaspekterna. För att komma fram till vilka dessa är görs en Miljöanalys vilken beskrivs nedan. I Miljöanalys värderas framför allt storleken på miljöpåverkan, eftersom standarden anger att detta är kriteriet för om aspekter tar Miljöanalys på även hänsyn till lag och kundkrav. Det är viktigt att komma ihåg att denna första listning måste bearbetas vidare innan man slutligen bestämmer sig för vilka miljöaspekter men ska arbeta aktivt med. Man måste bland annat ta hänsyn till tekniska och ekonomiska möjligheter att åstadkomma förbättringar. Sådana övervägande görs dock bäst utanför analysen och miljöutredningen. 
+
+Bestäm miljöaspekten till exempel:
+Resursförbrukning
+Olycksrisk/er
+Utsläpp
+Avfall
+Transport, resor, tjänsteresor
+
+Bestäm associerad miljöpåverkan.
+Bestäm om miljöaspekten strider mot lag- eller kundkrav? 
+Ta hjälp av lagsammanställningen.
+Bestäm sannolikheten och allvarligheten. 
+Notera uppenbara åtgärder, hinder etc. 
+Ge förslag i kolumnen för kommentarer men lägg inte för mycket tid på detta.
+Värdering av miljöaspekter
+Denna utredning syftar framför allt till att utröna de betydande miljöaspekterna av (Företagsnamn) verksamhet och produkter. ISO 14001:2015 anger att ”en betydande miljöaspekt är en miljöaspekt som har eller kan ha en betydande miljöpåverkan”. Detta tolkar vi som att det är storleken på miljöpåverkan som är avgörande. För att göra denna storleksvärdering har, så långt det varit möjligt, resursförbrukning och utsläpp räknats om till ett och samma mått på miljöpåverkan. Därefter har vi tagit hänsyn till miljörelaterade lag- och kundkrav, leder fram till nedanstående rangordnade lista av betydande miljöaspekter på (Företagsnamn) verksamhet och produkter.
+
+ 
+_____________________________________________
+
+_____________________________________________
+
+_____________________________________________
+
+_____________________________________________
+
+_____________________________________________
+
+_____________________________________________
+
+
+Innan slutgiltig ställning tas till vilka av de betydande miljöaspekterna är ska miljöarbete inriktas på, bör en mer realistisk prioritering göras. 
+
+
+
+
+
+Exempel på övergripande mål (3-års mål) för företagets miljöarbete:
+
+Ett miljöledningssystem för företaget skall utvecklas och sättas i drift.
+Miljökrav skall ställas vid upphandling av varor och tjänster.
+I syfte att hushålla med resurser skall avfallet reduceras genom förebyggande planering, återanvändning och återvinning.
+
+Miljöpåverkan från förbrukning av energi (el, värme), bör minska.
+Miljöpåverkan från transporter (tjänsteresor, godstransporter, etc. bör minska).
+Ärendehanteringen skall genomsyras av en helhetssyn på hållbar samhällsutveckling med utgångspunkt i skydd av miljön, effektivare användning av resurser och hållbar försörjning.
+
+Exempel på detaljerade mål:
+
+Miljöutbilda personalen varje år.
+Miljölagstiftningen som berör företagets verksamhet ska sammanställas
+Påbörja dokumentation av miljöledningssystemet enligt principerna för 
+
+ISO 14001:2015
+Anvisningar för miljöanpassad upphandling bör tas fram
+Mängden osorterat avfall bör minska
+
+Pappersförbrukningen bör minska
+Endast miljöanpassade kemikalier får användas
+Elanvändningen och värmeförbrukningen bör minska
+
+Miljöanpassade drivmedel, oljor och fetter ska användas när det är möjligt
+Direktiv ska utarbetas för miljövänligare resor med förslag på alternativa transportsätt
+
+Lagkrav
+Att i denna miljöutredning ta upp, behandla och analysera aktuella miljölagar och paragrafer skulle leda till att själva miljöutredningen hamnar i skymundan. De paragrafer som miljöutredare funnit relevanta i mer eller mindre omfattning i detta sammanhang.  Verksamheten innefattar en rad betydande miljöaspekter och grunden i verksamheten är att upprätthålla och förbättra företagets infrastruktur. Att granska vilka lagar och förordningar som verksamheten omfattas av borde därför göras separat, men gärna med denna utredning som ett av hjälpmedlen.
+
+Slutsats
+Till att börja med bör det påpekas att en miljöledningsstandard som ISO 14001:2015 är tänkt att förse en organisation med delarna i ett effektivt miljöledningssystem, som i sin tur kan integreras med övriga ledningskrav för att uppnå miljömål och ekonomiska mål. ISO 14001:2015 är i sig inte ämnad att skärpa och/eller ändra
+

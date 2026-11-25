@@ -2,36 +2,29 @@
 
 ## Philosophy
 
-This repository separates platform foundation concerns from application concerns.
+This repository is evolving into **KvalitetsGruppen App Template** with a first product: **Miljöutredning**.
 
-Future product architecture should also be guided by `docs/QUALITY_WORX_PRODUCT_PRINCIPLES.md`. In particular, the platform language should use `Guided Workflow Engine` as the reusable architectural concept; quiz-style screens are only one possible UI pattern inside that broader approach.
+Shared platform code stays product-neutral. Product content lives in `packages/product` and `components/miljo`.
 
-The foundation should answer:
-
-- how shared UI is structured
-- how themes and tokens are applied
-- how layouts are composed
-- how future teams should organize code
-
-It should not answer:
-
-- how a specific Quality WorX product behaves
-- which business entities exist
-- what workflows a module requires
+The dual-platform model is documented in `docs/DUAL_PLATFORM.md`.
 
 ## Directory Map
 
 ```text
-app/                Next.js entrypoints and global styles
+apps/desktop/       Electron + SQLite Windows app
+packages/core/      shared types, scoring, repository interface
+packages/data/      memory/Supabase adapters + migrations
+packages/product/   Miljöutredning section definitions
+packages/ui/        shared UI package (migration in progress)
+app/                Next.js web entrypoints (temporary root location)
 components/ui/      low-level reusable UI primitives
 components/layout/  shell and layout compositions
 components/common/  shared neutral presentation components
+components/miljo/   product UI for Miljöutredning
 hooks/              reusable client hooks
 lib/                utilities, config, and token references
-styles/             future styling extensions and guidance
-types/              shared TypeScript contracts
-public/             static assets
-docs/               implementation guidance and extension docs
+supabase/           prepared Postgres migrations
+docs/               inventory, product map, dual-platform docs
 ```
 
 ## Layering Rules

@@ -1,0 +1,406 @@
+﻿
+center23002457459410012100center818008745855Detta är en produkt från Kvalitetsdokument.se
+
+Vi som står bakom Kvalitetsdokument.se är Kvalitetsgruppen Hässleholm AB. Vi är ett konsultföretag som hjälper småföretag att införa kvalitets-, miljö- och arbetsmiljöledningssystem. Ni hittar mer information om oss på  HYPERLINK "https://kvalitetsgruppen.com/"Kvalitetsgrupppen.com
+
+
+941009200Detta är en produkt från Kvalitetsdokument.se
+
+Vi som står bakom Kvalitetsdokument.se är Kvalitetsgruppen Hässleholm AB. Vi är ett konsultföretag som hjälper småföretag att införa kvalitets-, miljö- och arbetsmiljöledningssystem. Ni hittar mer information om oss på  HYPERLINK "https://kvalitetsgruppen.com/"Kvalitetsgrupppen.com
+
+
+center300003207385Vägledning för miljöutredning
+Så här fyller du i blanketterna
+9410036300Vägledning för miljöutredning
+Så här fyller du i blanketterna
+
+
+
+Innehållsförteckning
+ TOC \o "1-3" \h \z \u Fri support PAGEREF _Toc188435351 \h 2
+Så fyller du i blanketter med bedömning PAGEREF _Toc188435352 \h 3
+Inledning – Miljöutredning PAGEREF _Toc188435353 \h 4
+1. Blankett – Allmän information PAGEREF _Toc188435354 \h 5
+2. Blankett – Verksamhetsbeskrivning PAGEREF _Toc188435355 \h 5
+3. Blankett – Lagar och andra bindande krav PAGEREF _Toc188435356 \h 6
+4. Blankett – Miljöolyckor och miljöolycksrisker PAGEREF _Toc188435357 \h 6
+5. Blankett – Förbrukningsmaterial PAGEREF _Toc188435358 \h 7
+6. Blankett - Råvaror och komponenter PAGEREF _Toc188435359 \h 7
+7. Blankett - Kemikalier och kemiska produkter PAGEREF _Toc188435360 \h 8
+8. Blankett - Avfall, farligt avfall och återvinning PAGEREF _Toc188435361 \h 8
+9. Blankett - Vatten och avlopp PAGEREF _Toc188435362 \h 9
+10. Blankett – Buller PAGEREF _Toc188435363 \h 9
+11. Blankett – Energianvändning PAGEREF _Toc188435364 \h 10
+12. Blankett – Transport PAGEREF _Toc188435365 \h 10
+13. Blankett – Tjänsteresor PAGEREF _Toc188435366 \h 11
+14. Blankett - Resor till och från jobbet (frivilligt) PAGEREF _Toc188435367 \h 11
+15. Blankett – Nödlägesberedskap PAGEREF _Toc188435368 \h 12
+16. Blankett - Leverantörsbedömning ur miljösynpunkt PAGEREF _Toc188435369 \h 12
+17. Blankett – Miljöpolicy PAGEREF _Toc188435370 \h 12
+18. Blankett – Miljömål PAGEREF _Toc188435371 \h 12
+19. Blankett - Bedömning av miljöaspekter PAGEREF _Toc188435372 \h 13
+20. Blankett - Betydande miljöaspekter PAGEREF _Toc188435373 \h 13
+21. Blankett – Positiva iakttagelser PAGEREF _Toc188435374 \h 13
+
+
+Fri support
+Ni har rätt till fri support för hur denna produkt ska användas i er verksamhet. Vänd er till dokument@kvalitetsgruppen.com eller ring oss måndag-fredag, 08.00-17.00 på 0451-837 15 om ni har frågor.
+
+
+Så fyller du i blanketter med bedömning
+
+Mängd
+Skala
+Förklaring
+1
+Liten omfattning
+2
+Måttlig omfattning
+3
+Stor omfattning
+
+Miljöpåverkan
+Skala
+Förklaring
+1–2
+Liten miljöpåverkan
+3–4
+Måttlig miljöpåverkan
+5–6
+Stor miljöpåverkan
+
+
+Bedömning
+Multiplicera poängen för mängd med poängen för miljöpåverkan för att kunna fylla i kolumnen ”Resultat”.
+
+1–6 poäng = Mindre miljöaspekt
+7–12 poäng = Måttlig miljöaspekt
+13 – 18 = Betydande miljöaspekt
+ 
+
+
+Inledning – Miljöutredning
+Syftet med att införa ett miljöledningssystem enligt ISO 14001, eller annat likvärdigt system såsom FR2000, är att öka engagemanget och kunskapsnivån hos dem anställd, ständigt förbättra miljöarbetet inom verksamheten, minska verksamhetens negativa miljöpåverkan samt sträva mot en hållbar utveckling. 
+”Hållbar utveckling innebär en utveckling som tillgodoser våra behov idag, utan att äventyra kommande generationers möjligheter att tillgodose sina behov”
+
+Ur Brundtland rapporten, 1987 
+ 
+Genom en certifiering av ert miljöledningssystem följer naturligt en kontinuerlig uppföljning och utveckling av företaget och verksamhetens miljöarbete. Grunden till ett effektivt miljöarbete ligger i den miljöutredning som normalt sätt genomförs i samband med uppstarten av företagets miljöarbete. 
+Miljöutredningen är tänkt att fungera som ett underlag till det fortsatta arbetet med att ta fram ett miljöledningssystem – vänligen observera att KvalitetsGruppens miljöutredning innehåller även blanketter som ska användas vid utredning av ett ”färdigt” miljöledningssystem eftersom att en ny miljöutredning ska göras vart tredje år, så om ni inte kan fylla i en blankett första miljöutredningen kan ni lämna en kommentar i anslutning till den aktuella blanketten.
+
+I denna vägledningstext hittar ni information om hur ni ska fylla i blanketterna i miljöutredningen och är något oklart har vi fri support på hur produkten ska användas.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Blankett – Allmän information
+Syftet med blanketten är att ge översiktlig information om miljöutredningen och vilka ramar man satt för utredningen.
+Ange vilket företag som miljöutredningen gäller.
+Ange vilken tidsperiod som miljöutredningen avser omfatta, avgränsa gärna till ett verksamhetsår. 
+Ange om miljöutredningen gäller hela eller delar av verksamheten. Om ni valt att kryssa i ”Delar av verksamhet” ska ni även ange vilken eller vilka avdelningar som utredningen gäller. 
+Ange vem som haft huvudansvaret för genomförandet av miljöutredningen, om där finns flera huvudansvariga ska ni ange samtliga.
+Ange vem som granskat den färdiga miljöutredningen innan den ska godkännas och arkiveras. 
+Ange vem som godkänt den färdiga miljöutredningen. 
+Ange när nästa miljöutredning är planerad, kom ihåg att en ny miljöutredning ska göras vart tredje år. 
+Frivilligt att skriva in en kommentar.
+Personerna i punkt 4–6 ska signera med namn och datum när deras del är avklarad. 
+
+2. Blankett – Verksamhetsbeskrivning
+Syftet med blanketten är att förmedla omfattningen av den verksamhet som bedrivs. 
+Ange företagsnamn, adress och växelnummer. 
+Ange kontaktuppgifter till den som är ansvarig för miljöutredningen (Kontaktperson).
+Ange kontaktuppgifter till den som är miljöansvarig på företaget (om personen är ansvarig för miljöutredningen behövs inte punkt 2 fyllas i).
+Ange kontaktuppgifter till fastighetsförvaltaren.
+Beskriv kortfattat er verksamhet och/eller era produkter. 
+Beskriv kortfattat företagets läge (exempelvis närhet till bebyggelse eller skyddat vattenområde m.m.) 
+Ange om ni är tillståndspliktiga, är ni osäkra kan ni kontakta kommunen. 
+Ange var ni förvarar en ”Karta över anläggningen” och ”Organisationsschema”.
+Ange antalet helårs och säsongsanställda.
+Ange omsättning i SEK/år.
+
+Dokument som ska tas fram:
+Organisationsschema
+Karta över anläggningen + närmsta omgivningen
+Lokalens och/eller lokalernas planlösning
+
+
+3. Blankett – Lagar och andra bindande krav
+Syftet med blanketten är att skapa en översikt över de viktigaste miljölagarna, föreskrifter, allmänna bestämmelser, kundkrav och andra krav som gäller för verksamheten.  Informationen till blanketten kan ni hämta från exempelvis:
+
+Kommunens miljökontor
+Naturvårdsverket 
+Miljöbalken och arbetsmiljölagen 
+Kunder 
+Leverantörer
+Önskemål från anställda
+Eventuella styrelsebeslut 
+Olika intressenter – grannar, försäkringsbolag m.fl.
+
+Observera att en aktuell lista över samtliga lagar och andra bindande krav ska finnas i anslutning till ert miljöledningssystem. Listan i miljöutredningen blir en ögonblicksbild över vilka lagar och andra bindande som ställs på verksamheten i samband med utredningen. 
+
+Ange var ni förvarar en detaljerad lista på samtliga lagar och andra bindande krav.
+Ange datum för när den detaljerade listan är kontrollerad och uppdaterad.
+Ange vem som utfört kontrollen och uppdateringen av den detaljerade listan.
+Ange om kontrollen genomförs varje kvartal, halvår eller helår (nya lagar eller tillägg och/eller förändringar av befintliga lagar genomförs ofta i anslutning till hel- och halvårsskifte). 
+Fyll i blanketten genom att ange vem som ställer krav på er verksamhet och vilka krav som ställs på er.
+Ange om ni avviker från kraven (om ja, ange vilka krav ni avviker ifrån och varför).
+
+4. Blankett – Miljöolyckor och miljöolycksrisker
+Syftet med blankettens första del är att kartlägga inträffade miljöolyckor som skett under de senaste fem åren (observera att denna blankett går utanför den aktuella perioden som resterande del av miljöutredningen avser eftersom miljöolyckor förhoppningsvis sker sällan eller aldrig, men med miljökonsekvenser som kan sträcka sig långt framåt). 
+Blankettens andra del syftar till att skapa en översiktlig bild över de miljöolycksrisker som förknippas med verksamheten under den period miljöutredningen avser. 
+
+Miljöolyckor
+Ange datum för miljöolycka.
+Ange var miljöolyckan inträffade.
+Ange kortfattat orsak till miljöolycka (en grundligare analys ska dokumenteras separat).
+Ange om miljöolyckan orsakat skada på miljön.
+
+Miljöolycksrisker
+Ange riskområde.
+Ange hur stor sannolikhet det är att det händer (liten, mellan eller stor).
+Ange om det finns förebyggande åtgärder för den aktuella risken (detta ska dokumenteras i en handlingsplan)
+
+
+Dokument som ska tas fram vid behov:
+Orsaksanalys för inträffad miljöolycka.
+Åtgärd vid inträffad miljöolycka.
+Riskbedömning för miljöolyckor.
+Handlingsplan för förebyggande åtgärder.
+
+5. Blankett – Förbrukningsmaterial
+Syftet med blanketten är att uppskatta verksamhetens användning av förbrukningsmaterial under den period som miljöutredningen avser. Till hjälp kan ni titta på vilka inköp som gjorts under perioden och uppskatta hur mycket ni har förbrukat.  
+
+Ange förbrukningsmaterial. 
+Ange den årliga förbrukningen (antal, vikt eller mängd).
+Ange användningsområde för förbrukningsmaterialet. 
+Fyll i resterande kolumner baserat på ”Så fyller du i blanketter med bedömning” på sidan 2. 
+
+Blanketten kan fyllas i för hela verksamheten, men bör delas upp avdelningsvis för att enklare se om någon del av verksamheten sticker ut gällande förbrukningen (en markant skillnad, kan innebära att man måste se över processer eller rutiner för den specifika avdelningen – vilket kan sättas upp som ett miljömål). 
+
+6. Blankett - Råvaror och komponenter
+Syftet med blanketten är att uppskatta verksamhetens förbrukning och, i den mån det går att beräkna, spill av råvaror och komponenter under den period som miljöutredningen avser. Detta bl a för att se hur pass effektivt nyttjande man har av råmaterialet. Till hjälp kan ni titta på vilka inköp som gjorts under perioden och uppskatta hur mycket ni har förbrukat.  
+
+Ange råvara eller komponent 
+Ange den årliga förbrukningen (antal, vikt eller mängd) + uppskatta spillet i procent.
+Ange användningsområde för råvara eller komponent. 
+Fyll i resterande kolumner baserat på ”Så fyller du i blanketter med bedömning” på sidan 2. 
+
+
+7. Blankett - Kemikalier och kemiska produkter
+Syftet med blanketten är att kartlägga verksamhetens innehav och förbrukning av kemikalier och kemiska produkter under den period som miljöutredningen avser. 
+Observera att en aktuell lista med uppdaterade säkerhetsdatablad ska finnas i anslutning till ert miljöledningssystem. Listan i miljöutredningen blir en ögonblicksbild över vilka kemikalier och kemiska produkter som finns i samband med utredningen för att kunna avgöra de betydande miljöaspekterna som ska ligga till grund för hela miljöarbetet. 
+
+Ange var en aktuell lista över verksamhetens kemikalier och kemiska produkter finns.
+Ange när listan är kontrollerad och uppdaterad.
+Ange vem som utfört kontrollen.
+Ange om kontrollen görs kvartalsvis, halvårsvis eller helår.
+Ange var aktuella säkerhetsdatablad finns.
+Ange när dessa är kontrollerade och uppdaterade.
+Ange vem som genomfört kontrollen.
+Ange om kontrollen görs kvartalsvis, halvårsvis eller helår.
+Ange kemikalie eller kemisk produkt. 
+Ange den årliga förbrukningen (antal, vikt eller mängd).
+Ange användningsområde för kemikalie eller kemisk produkt. 
+Fyll i resterande kolumner baserat på ”Så fyller du i blanketter med bedömning” på sidan 2. 
+
+8. Blankett - Avfall, farligt avfall och återvinning
+Syftet med blanketten är att kartlägga verksamhetens förbrukning av avfall, farligt avfall och återvinning under den period som miljöutredningen avser. Till er hjälp kan ni använda er av exempelvis fakturor och rapporter från de bolag ni anlitar för att hämta avfall.
+
+Ange typ av avfall (hushållssopor, trädgårdsavfall mm.).
+Ange den årliga förbrukningen (antal, vikt eller mängd).
+Ange om avfallet hanteras internt eller externt.  
+Fyll i resterande kolumner baserat på ”Så fyller du i blanketter med bedömning” på sidan 2. 
+Upprepa punkt 1 – 4 för Farligt avfall (material som måste hanteras på särskilt sätt i samband med sluthantering) och Återvinning (material som återanvänds).
+
+
+9. Blankett - Vatten och avlopp
+Syftet med blanketten är att kartlägga verksamhetens förbrukning av vatten och vart det tar vägen, under den period miljöutredningen avser. Blanketten syftar även att säkerställa om det finns krav angående fettavskiljare eller oljeavskiljare. Till er hjälp kan ni använda er av exempelvis fakturor.
+ 
+Ange källa (exempelvis kommunalt eller egen brunn).
+Ange användningsområde för vattnet.
+Ange volym för en månad.
+Ange volym för ett år. 
+Ange vart vattnet tar vägen (exempelvis avloppsnät, dagvattenbrunn eller direkt ut i naturen).
+Ange om det finns:
+En installerad fettavskiljare, 
+Om det inte finns en installerad fettavskiljare trots föreliggande behov 
+Om det inte föreligger ett behov av en fettavskiljare.
+
+
+Följande frågor besvaras endast om JA kryssats för i punkt 6.
+Ange när anläggningen installerades.
+Ange hur ofta underhåll görs.
+Ange hur ofta anläggningen töms.
+Ange total fett/år.
+Ange ansvarig för anläggningen.
+Upprepa punkt 6 – 11 för Oljeavskiljare. 
+
+10. Blankett – Buller
+Blanketten syftar till att kartlägga ifall verksamheten understiger de gränsvärden för buller som är lagstiftade i Sverige, under den period som miljöutredningen avser. Kontakta Arbetsmiljöverket eller kommunen för frågor om regler för buller. 
+Det kan vara en god idé att genomföra en bullermätning på olika årstider eller på olika tider på dygnet, resultatet kan skilja sig åt markant.
+
+Ange när senaste bullermätningen utfördes.
+Ange om bullermätningen gjordes inomhus eller utomhus (kryssa i båda rutorna om mätningen genomfördes både inomhus och utomhus).
+Ange om bullermätningen genomfördes på vinter, vår, sommar eller höst. 
+Ange bullerkälla.
+Ange bullernivå i anslutning till arbetsmiljön.
+Ange bullernivå i anslutning till omgivningsmiljö.
+
+
+11. Blankett – Energianvändning
+Syftet med blanketten är att kartlägga verksamhetens energianvändning under den period som miljöutredningen avser. Till er hjälp kan ni använda er av exempelvis fakturor. 
+Blanketten kan fyllas i för hela verksamheten, men bör delas upp så som blanketten föreslagit för att enklare se om någon del av verksamheten (eller månad!) sticker ut gällande förbrukningen. En markant skillnad, kan innebära att man måste se över processer eller rutiner för den specifika avdelningen (eller månad!) – vilket kan sättas upp som ett miljömål. 
+
+Ange den totala årliga energiförbrukningen för verksamheten.
+Ange den totala energiförbrukningen för varje månad. 
+Ange vem och/eller vilka leverantörer ni anlitar. (el, fjärrvärme mm.).
+
+Ange avdelningsnamn kartläggningen berör
+Ange användningsområde (belysning, värme, datorer mm.).
+Ange energislag (vind, vatten, biomassa, kol mm.).
+Ange om energin är miljömärkt.
+Ange den totala årliga förbrukningen.
+Ange ett medelvärde av förbrukningen under våren (mars-april)
+Ange ett medelvärde av förbrukningen under hösten (september-november)
+
+12. Blankett – Transport
+Syftet med blanketten är att uppskatta och värdera CO2-utsläpp som härrör från transporter i anslutning till företagets verksamhet under den period som miljöutredningen avser. 
+
+Ange färdmedel (bil, lastbil, flygplan mm.) och registreringsnummer.
+Ange CO2-utsläpp/år.
+Fyll i resterande kolumner baserat på ”Så fyller du i blanketter med bedömning” på sidan 2. 
+
+
+Uträkning av CO2-utsläpp:
+
+Steg 1 - (antal mil/år) * (X liter/mil) = Y liter drivmedel
+Steg 2 - (Y liter drivmedel) * (drivmedlets koldioxidutsläpp/kg) = CO2-utsläpp/år (kg)
+
+1l bensin = 2,24 kg (2,66 kg – inkl. prod)
+1l diesel = 2,48 kg (2,97 kg – inkl. prod)
+1l E85 = 1,08 kg
+1 Nm3 fordonsgas = 1,44 kg (inkl. prod)
+
+
+
+
+
+
+
+
+13. Blankett – Tjänsteresor
+Syftet med blankettens första del är att kartlägga tjänsteresor som sker med kollektivtrafik, medan blankettens andra del syftar till kartläggning av tjänsteresor som sker med bil (oberoende samåkning), under den period som miljöutredningen avser.
+Blankettens tredje och sista del är en bedömning av tjänsteresorna som sker med bil.
+
+Tjänsteresor med kollektivtrafik
+Ange färdmedel (buss, tåg, flyg, båt mm.).
+Ange antal resor/år.
+Ange medelavståndet för tjänsteresorna.
+Ange det totala antal avståndet (km)
+Kryssa för om det miljövänligaste transportsättets valts, om nej ska ni ange varför.
+
+Tjänsteresor med bil
+Ange biltyp och registreringsnummer.
+Ange bränsleförbrukning (X liter/mil).
+Ange CO2-utsläpp/år.
+Ange bränsletyp.
+Ange totalt antal km/år.
+
+Uträkning av CO2-utsläpp:
+
+Steg 1 - (antal mil/år) * (X liter/mil) = Y liter drivmedel
+Steg 2 - (Y liter drivmedel) * (drivmedlets koldioxidutsläpp/kg) = CO2-utsläpp/år (kg)
+
+1l bensin = 2,24 kg (2,66 kg – inkl. prod)
+1l diesel = 2,48 kg (2,97 kg – inkl. prod)
+1l E85 = 1,08 kg
+1 Nm3 fordonsgas = 1,44 kg (inkl. prod)
+
+
+Bedömning av tjänsteresor med bil (CO2-utsläpp)
+Ange biltyp och registreringsnummer.
+Ange CO2-utsläpp/år.
+Fyll i resterande kolumner baserat på ”Så fyller du i blanketter med bedömning” på sidan 2. 
+
+
+14. Blankett - Resor till och från jobbet (frivilligt)
+Syftet med blanketten är att uppskatta hur företagets anställda tar sig till och från jobbet under perioden som miljöutredningen avser. Resultatet kan användas till att underlätta resandet för sina anställda genom att exempelvis erbjuda subventionerade buss och/eller tågkort, anlägga bättre och säkrare cykelvägar tillsammans med kommunen eller varför inte köpa in el-cyklar för utlåning för anställda som vill lämna bilen hemma några dagar i veckan.
+
+Ange antal personer som nyttjar det aktuella färdmedlet.
+Uppskatta antal resor/år
+Ange medelavståndet för personerna som nyttjar det aktuella färdmedlet.
+Ange totalt antal km/år (om det är möjligt)
+Ange antal procent som använder ett eller flera färdmedel.
+
+15. Blankett – Nödlägesberedskap
+Syftet med blanketten är att säkerställa att nödlägesberedskap finns (krav enligt ISO14001 och FR2000) och att den hålls aktuell.
+Om det är er första miljöutredning har ni troligtvis inte hunnit ta fram en nödlägesberedskap, anteckna då detta under 15.1
+
+Ange var den dokumenterade nödlägesberedskapen finns.
+Ange när den kontrollerades och uppdaterades.
+Ange vem som genomförde kontrollen.
+Ange om kontrollen utförs kvartalsvis, halvårsvis eller helår.
+
+16. Blankett - Leverantörsbedömning ur miljösynpunkt
+Syftet med blanketten är att säkerställa att leverantörsbedömning ur miljösynpunkt görs kontinuerligt (krav enligt ISO14001 och FR2000).
+Om det är er första miljöutredning har ni troligtvis inte hunnit genomföra en leverantörsbedömning, anteckna då detta under 16.1
+
+Ange var resultatet av leverantörsbedömningen finns. 
+Ange när den kontrollerades och uppdaterades.
+Ange vem som genomförde kontrollen.
+Ange om kontrollen utförs kvartalsvis, halvårsvis eller helår.
+
+17. Blankett – Miljöpolicy
+Syftet med blanketten är att säkerställa att en miljöpolicy finns (krav enligt ISO14001 och FR2000).
+Om det är er första miljöutredning har ni troligtvis inte hunnit ta fram en miljöpolicy (men ni bör ha en hyfsad uppfattning om vad er miljöpolicy ska innehålla efter genomförd miljöutredning), anteckna då detta under 17.1
+
+Ange var miljöpolicyn i helhet finns. 
+Ange när den kontrollerades och uppdaterades.
+Ange vem som genomförde kontrollen.
+Ange om kontrollen utförs kvartalsvis, halvårsvis eller helår.
+
+18. Blankett – Miljömål
+Syftet med blanketten är att säkerställa att relevanta miljömål anpassade till verksamheten finns, samt att handlingsplaner tagits fram för hur man ska uppnå miljömålen (krav enligt ISO14001 och FR2000).
+Om det är er första miljöutredning har ni troligtvis inte hunnit ta fram miljömål med tillhörande handlingsplaner (men ni bör ha en hyfsad uppfattning om era miljömål efter genomför miljöutredning), anteckna då detta under 18.1
+
+Ange var miljömålen finns. 
+Ange när de kontrollerades och uppdaterades.
+Ange vem som genomförde kontrollen.
+Ange om kontrollen utförs kvartalsvis, halvårsvis eller helår.
+Upprepa punkt 1–4 för Handlingsplan för miljömål.
+
+
+19. Blankett - Bedömning av miljöaspekter
+Syftet med blanketten är att göra en övergripande bedömning av de miljöaspekter som framkommit av de andra blanketterna, med målsättning att få fram verksamhetens betydande miljöaspekter.
+
+Ange miljöaspekt
+Fyll i resterande kolumner baserat på ”Så fyller du i blanketter med bedömning” på sidan 2. 
+Ange vem som är ansvarig för miljöaspekten.
+
+Miljöaspekter med högst resultat är verksamhetens betydande miljöaspekter och ska skrivas in på Blankett – Betydande miljöaspekter.
+
+20. Blankett - Betydande miljöaspekter
+Syftet med blanketten är att visa vilka betydande miljöaspekter verksamheten har baserat ovanstående genomförda miljöutredning.
+De betydande miljöaspekterna ska ligga till grund för verksamhetens miljömål, miljöpolicy och företagets framtida miljöarbete.
+
+Ange betydande miljöaspekt
+Ange om livscykel för den betydande miljöaspekten är beaktad (krav enligt ISO 14001 och FR2000).
+Ange om det finns en framtagen handlingsplan för den betydande miljöaspekten, om ja, ange var handlingsplanen finns.
+Ange vem som är ansvarig för den betydande miljöaspekten.
+
+21. Blankett – Positiva iakttagelser
+Under en miljöutredning kan man göra iakttagelser under arbetets gång som inte nödvändigtvis måste bedömas, värderas eller beräknas men som ändå kan bidra till en positiv utveckling av företagets miljöarbete.
+Syftet blanketten är att ge sig själv en klapp på axeln och belysa vad ni gjort bra i anslutning till miljöutredningen.
+
+
+Lycka till!
+

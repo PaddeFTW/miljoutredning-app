@@ -74,9 +74,11 @@ web_modules/
 .cache
 .parcel-cache
 
-# Next.js build output
+# Next.js / Electron build output
 .next
 out
+apps/desktop/release/
+apps/desktop/out/
 
 # Nuxt.js build / generate output
 .nuxt
