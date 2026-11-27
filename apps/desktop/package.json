@@ -1,8 +1,9 @@
 {
-  "name": "@kg/desktop",
+  "name": "miljoutredning-desktop",
   "version": "0.1.0",
   "private": true,
   "description": "Miljöutredning desktop app for KvalitetsGruppen.",
+  "author": "KvalitetsGruppen Hässleholm AB",
   "productName": "Miljöutredning – KvalitetsGruppen",
   "main": "out/main/index.js",
   "scripts": {
@@ -20,7 +21,7 @@
   "devDependencies": {
     "@types/sql.js": "^1.4.9",
     "@vitejs/plugin-react": "^5.1.1",
-    "electron": "^39.2.4",
+    "electron": "39.8.10",
     "electron-builder": "^26.0.12",
     "electron-vite": "^4.0.0",
     "typescript": "^6.0.3",
