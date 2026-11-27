@@ -31,7 +31,8 @@ function createWindow(): void {
       preload: path.join(__dirname, "../preload/index.js"),
       contextIsolation: true,
       nodeIntegration: false,
-      sandbox: true
+      // Sandbox blockerar require('zod') i preload; behåll contextIsolation.
+      sandbox: false
     }
   });
 
@@ -42,8 +43,26 @@ function createWindow(): void {
   }
 }
 
+async function writeSmokeLog(message: string): Promise<void> {
+  try {
+    const logPath = path.join(app.getPath("userData"), "smoke-test.log");
+    await fs.appendFile(logPath, `${new Date().toISOString()} ${message}\n`, "utf8");
+  } catch {
+    // Ignorera loggfel under smoke-test.
+  }
+}
+
 function registerIpcHandlers(): void {
-  ipcMain.handle("investigations:list", () => database.listInvestigations());
+  ipcMain.handle("investigations:list", async () => {
+    try {
+      const items = database.listInvestigations();
+      await writeSmokeLog(`list ok count=${items.length}`);
+      return items;
+    } catch (error) {
+      await writeSmokeLog(`list error ${error instanceof Error ? error.message : String(error)}`);
+      throw error;
+    }
+  });
 
   ipcMain.handle("investigations:get", (_event, id: unknown) => {
     return database.getInvestigation(investigationIdSchema.parse(id));

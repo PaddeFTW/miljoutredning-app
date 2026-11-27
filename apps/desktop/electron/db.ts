@@ -54,9 +54,9 @@ export class DesktopDatabase {
   async initialize(): Promise<void> {
     await fs.mkdir(this.userDataPath, { recursive: true });
 
-    this.sql = await initSqlJs({
-      locateFile: () => this.resolveSqlWasmPath()
-    });
+    const wasmPath = this.resolveSqlWasmPath();
+    const wasmBinary = await fs.readFile(wasmPath);
+    this.sql = await initSqlJs({ wasmBinary });
 
     const existing = await this.readExistingDatabase();
     this.db = existing ? new this.sql.Database(existing) : new this.sql.Database();

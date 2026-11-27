@@ -64,10 +64,16 @@ export default function App() {
   }, [selected]);
 
   useEffect(() => {
-    void reloadInvestigations();
+    void reloadInvestigations().catch((error) => {
+      setMessage(error instanceof Error ? error.message : "Kunde inte läsa utredningar.");
+    });
   }, []);
 
   async function reloadInvestigations(nextSelectedId?: string) {
+    if (!window.desktopApi) {
+      throw new Error("Desktop-API saknas. Starta om appen eller bygg om installationen.");
+    }
+
     const items = await window.desktopApi.investigations.list();
     setInvestigations(items);
 
@@ -77,6 +83,7 @@ export default function App() {
 
     setSelected(nextSelected);
     setDraft(nextSelected ? { title: nextSelected.title, companyName: nextSelected.company.name } : emptyDraft);
+    setMessage(items.length ? `Läste ${items.length} utredning(ar).` : "Inga utredningar ännu.");
   }
 
   async function handleCreate(event: FormEvent<HTMLFormElement>) {

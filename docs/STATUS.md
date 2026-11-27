@@ -19,7 +19,11 @@ Uppdaterad: 2026-11-18
 | Webb utan hårdkodad demodata | DELVIS KLAR | Dashboard/utredning rensade från “Nordkust” |
 | Org-säkerhetsfix | DELVIS KLAR | Auto-join till KvalitetsGruppen borttagen |
 | Supabase-adapter + RLS-migrationer | BLOCKERAD | Stub + SQL förberedda; kräver testdatabas |
-| Setup.exe byggd och testad | EJ TESTAD | `desktop:build` KLAR; `desktop:dist` ej körts (lågt diskutrymme) |
+| Setup.exe byggd | KLAR | `apps/desktop/release/Miljöutredning – KvalitetsGruppen Setup 0.1.0.exe` |
+| Setup.exe installerad lokalt | KLAR | Silent install till `%LOCALAPPDATA%\Programs\miljoutredning-desktop\` |
+| Installerad app startar | KLAR | Process + fönster verifierat |
+| SQLite-lista efter omstart | KLAR | smoke-test.log: `list ok count=2` |
+| UI skapa-knapp end-to-end | EJ TESTAD | Databas/API fungerar; manuell UI-klick kvar |
 | KvalitetsGruppen App Template | DELVIS KLAR | Paket + docs; GitHub-template-repo EJ skapat |
 | Merge till main | EJ KLAR | Kräver godkännande |
 
